@@ -1,0 +1,2571 @@
+title: Melmsie's favorite rolls - 
+description:Contains at least one roll for ALMOST every non-sunset weapon!
+
+COLD FRONT
+//notes:(PVE) This gun can slap if you let it
+dimwishlist:item=1506719573&perks=1820235745,3425386926
+dimwishlist:item=1506719573&perks=1820235745,4049631843
+
+AVALANCHE
+//notes:(PVE) These are fine rolls, gun has good range and is solar
+dimwishlist:item=66875353&perks=3300816228,1546637391
+dimwishlist:item=66875353&perks=1168162263,2848615171
+
+GLACIOCLASM
+//notes:WOOOOO GOD ROLL
+dimwishlist:item=1030895163&perks=1820235745,1427256713
+
+1000 YARD STARE
+//notes:(PVP) This has some great potential
+dimwishlist:item=4164201232&perks=706527188,957782887
+dimwishlist:item=4164201232&perks=1428297954,957782887
+dimwishlist:item=4164201232&perks=2866798147,957782887
+dimwishlist:item=4164201232&perks=2866798147,588594999
+
+//notes:(PVE) This isn't too shabby!
+dimwishlist:item=4164201232&perks=3400784728,3513791699
+dimwishlist:item=4164201232&perks=3400784728,2610012052
+
+MATADOR 64
+//notes:(PVP) I was very particular about this gun's rolls bc there's some stuff competition in the shotgun world
+dimwishlist:item=2563012876&perks=1428297954,47981717
+dimwishlist:item=2563012876&perks=1428297954,2450788523
+
+//notes:(PVP) God roll!
+dimwishlist:item=2563012876&perks=1047830412,791862061,1428297954,47981717
+dimwishlist:item=2563012876&perks=466087222,791862061,1428297954,47981717
+
+HERO OF AGES
+//notes:(PVE) Ok this sword actually has some cracked perk combos for ad clear
+dimwishlist:item=2139640995&perks=1749209109,2396489472
+dimwishlist:item=2139640995&perks=3108830275,2396489472
+dimwishlist:item=2139640995&perks=3705817207,2396489472
+dimwishlist:item=2139640995&perks=3523296417,2396489472
+
+EYASLUNA
+//notes:(PVP) This gun fucking slaps, and has some great perk combinations
+dimwishlist:item=235827225&perks=2846385770,957782887
+dimwishlist:item=235827225&perks=2846385770,1015611457
+dimwishlist:item=235827225&perks=1168162263,1015611457
+
+//notes:(PVP) This is my personal god roll
+dimwishlist:item=235827225&perks=1926090094,1885400500,2846385770,957782887
+
+//notes:(PVE) This could be a great 140 for pve content
+dimwishlist:item=235827225&perks=1168162263,1015611457
+dimwishlist:item=235827225&perks=247725512,1015611457
+dimwishlist:item=235827225&perks=247725512,124408337
+dimwishlist:item=235827225&perks=1168162263,124408337
+
+PARDON OUR DUST
+//notes:(PVE) An AMAZING alternative to ignition code, especially if you prefer auto-loading over slideshot
+dimwishlist:item=3849810018&perks=3032599245,2010801679,1546637391
+dimwishlist:item=3849810018&perks=3032599245,3300816228,1546637391
+dimwishlist:item=3849810018&perks=3032599245,3300816228,3523296417
+dimwishlist:item=3849810018&perks=3032599245,2010801679,3523296417
+dimwishlist:item=3849810018&perks=3301904089,3300816228,1546637391
+
+//notes:(PVE) I'd consider this one a god roll
+dimwishlist:item=3849810018&perks=1478423395,3032599245,3300816228,1546637391
+
+BXR-55 BATTLER
+//notes:(PVE) This is a great solar pulse. Easy to farm, lots of good perks late game.
+dimwishlist:item=2708806099&perks=3523296417,1015611457
+dimwishlist:item=2708806099&perks=1168162263,1015611457
+dimwishlist:item=2708806099&perks=3523296417,11612903
+
+//notes:(PVP) This thing is modeled after Halo's BR for a reason. It fucking SLAPS. There's a lot of rolls that I will recommend, because a LOT of the perks are good and it comes down to your own personal choice.
+dimwishlist:item=2708806099&perks=1168162263,1015611457
+dimwishlist:item=2708806099&perks=1168162263,454085387
+dimwishlist:item=2708806099&perks=1168162263,2846385770
+dimwishlist:item=2708806099&perks=957782887,1015611457
+dimwishlist:item=2708806099&perks=957782887,2846385770
+dimwishlist:item=2708806099&perks=2450788523,1015611457
+dimwishlist:item=2708806099&perks=2450788523,2846385770
+dimwishlist:item=2708806099&perks=3523296417,1015611457
+
+//notes:(PVP) I'd consider this the god roll. Keep it.
+dimwishlist:item=2708806099&perks=4090651448,3142289711,1168162263,1015611457
+
+RETRACED PATH
+//notes:(PVE) This is an alright gun, but it's one of the most unique guns in the game.
+dimwishlist:item=548958835&perks=1820235745,2610012052
+dimwishlist:item=548958835&perks=1820235745,4104185692
+dimwishlist:item=548958835&perks=2779035018,2610012052
+dimwishlist:item=548958835&perks=2779035018,4104185692
+dimwishlist:item=548958835&perks=3096702027,1683379515
+
+WASTELANDER M5
+//notes:(PVP) This gun is so much fun to use lmao
+dimwishlist:item=1679868061&perks=1428297954,47981717
+dimwishlist:item=1679868061&perks=3161816588,47981717
+dimwishlist:item=1679868061&perks=1428297954,2450788523
+
+//notes:(PVP) GOD ROLL ALERT
+dimwishlist:item=1679868061&perks=1332244541,791862061,47981717
+
+//notes:(PVE) Idk this roll could be fine
+dimwishlist:item=1679868061&perks=1820235745,2679249093
+dimwishlist:item=1679868061&perks=1820235745,2360754333
+
+HALF-TRUTHS
+//notes:(PVE) Yeet, it's a sword
+dimwishlist:item=3257091166&perks=436053704,1749209109,2077819806
+dimwishlist:item=3257091166&perks=3666208348,1749209109,2077819806
+
+//notes:(PVP) Yeet yourself at someone at your own peril
+dimwishlist:item=3257091166&perks=2077819806
+
+THE OTHER HALF
+//notes:(PVE) Fun sword with fun perks
+dimwishlist:item=3257091167&perks=2077819806,1546637391
+dimwishlist:item=3257091167&perks=1749209109,1546637391
+dimwishlist:item=3257091167&perks=1749209109,3913600130
+
+SCATHELOCKE
+//notes:(PVE) This gun is a slightly worse chroma rush, but fun to use none the less
+dimwishlist:item=602618796&perks=1820235745,3425386926
+dimwishlist:item=602618796&perks=1570042021,3425386926
+dimwishlist:item=602618796&perks=1570042021,2458213969
+dimwishlist:item=602618796&perks=1820235745,2458213969
+
+SERVANT LEADER
+//notes:(PVE) This gun is fucking fire, SO many good perk choices and it has better stats than randy's had. These rolls are for more endgame content like GMs/Raids
+dimwishlist:item=1107446438&perks=1354429876,1015611457
+dimwishlist:item=1107446438&perks=1354429876,4049631843
+dimwishlist:item=1107446438&perks=1354429876,4104185692
+dimwishlist:item=1107446438&perks=247725512,1015611457
+dimwishlist:item=1107446438&perks=247725512,4049631843
+dimwishlist:item=1107446438&perks=247725512,4104185692
+dimwishlist:item=1107446438&perks=3436462433,1015611457
+dimwishlist:item=1107446438&perks=3436462433,4049631843
+dimwishlist:item=1107446438&perks=3436462433,4104185692
+
+//notes:(PVP) This is randy's throwing knife but on crack, I adore it
+dimwishlist:item=1107446438&perks=1168162263,3425386926
+dimwishlist:item=1107446438&perks=247725512,3425386926
+dimwishlist:item=1107446438&perks=2946784966,3425386926
+dimwishlist:item=1107446438&perks=1570042021,3425386926
+dimwishlist:item=1107446438&perks=3436462433,3425386926
+dimwishlist:item=1107446438&perks=2866798147,3425386926
+dimwishlist:item=1107446438&perks=2866798147,1015611457
+dimwishlist:item=1107446438&perks=3436462433,1015611457
+dimwishlist:item=1107446438&perks=1570042021,1015611457
+dimwishlist:item=1107446438&perks=2946784966,1015611457
+dimwishlist:item=1107446438&perks=247725512,1015611457
+dimwishlist:item=1107446438&perks=1168162263,1015611457
+dimwishlist:item=1107446438&perks=1168162263,2458213969
+dimwishlist:item=1107446438&perks=247725512,2458213969
+dimwishlist:item=1107446438&perks=2946784966,2458213969
+dimwishlist:item=1107446438&perks=1570042021,2458213969
+dimwishlist:item=1107446438&perks=3436462433,2458213969
+dimwishlist:item=1107446438&perks=2866798147,2458213969
+
+ANNUAL SKATE
+//notes:(PVP) This is a pretty crispy hand cannon with some dope perks. Wishlist includes rolls with timed payload too, love that perk.
+dimwishlist:item=6857689&perks=3436462433,1954620775
+dimwishlist:item=6857689&perks=3436462433,47981717
+dimwishlist:item=6857689&perks=3436462433,47981717
+
+//notes:(PVE) This could be a fun anti-champ gun next time there's an anti-champ handcannon mod.
+dimwishlist:item=6857689&perks=3400784728,1954620775
+
+THE LAST BREATH
+//notes:(PVE) This gun is a bit of a lazer beam
+dimwishlist:item=507038823&perks=1820235745,4104185692
+dimwishlist:item=507038823&perks=1820235745,4049631843
+dimwishlist:item=507038823&perks=2450788523,4104185692
+
+//notes:(PVP) If 600rpm autos become meta again, this could slap!
+dimwishlist:item=507038823&perks=2450788523,2846385770
+dimwishlist:item=507038823&perks=2450788523,2846385770
+
+JUDGMENT
+//notes:(PVP) This gun is pretty crisp, give it a try
+dimwishlist:item=1476654960&perks=2946784966,1954620775
+dimwishlist:item=1476654960&perks=2946784966,47981717
+dimwishlist:item=1476654960&perks=588594999,1954620775
+dimwishlist:item=1476654960&perks=588594999,47981717
+dimwishlist:item=1476654960&perks=3161816588,1954620775
+dimwishlist:item=1476654960&perks=3161816588,47981717
+
+DARKEST BEFORE
+//notes:(PVE) This is a crispy arc pulse, great for GMs!
+dimwishlist:item=2481758391&perks=3643424744,4049631843
+dimwishlist:item=2481758391&perks=3643424744,3425386926
+dimwishlist:item=2481758391&perks=1820235745,3425386926
+dimwishlist:item=2481758391&perks=1820235745,3425386926
+
+//notes:(PVP) This fucking slaps, might be my favorite over messenger
+dimwishlist:item=2481758391&perks=2946784966,3511092054
+dimwishlist:item=2481758391&perks=2946784966,3425386926
+dimwishlist:item=2481758391&perks=3436462433,3425386926
+dimwishlist:item=2481758391&perks=3436462433,3425386926
+
+SORROW'S VERSE
+//notes:(PVP) This gun is a bit of an aqquired taste, but it's got great perk combos.
+dimwishlist:item=2496875173&perks=1570042021,438098033
+dimwishlist:item=2496875173&perks=1359896290,438098033
+dimwishlist:item=2496875173&perks=2387244414,438098033
+dimwishlist:item=2496875173&perks=2387244414,3511092054
+dimwishlist:item=2496875173&perks=1359896290,4104185692
+dimwishlist:item=2496875173&perks=1570042021,4104185692
+
+//notes:(PVE) This gun is great as ad clear and popping arc shields. I'm torn on whether I like it more than shadow price or not.
+dimwishlist:item=2496875173&perks=2779035018,4104185692
+dimwishlist:item=2496875173&perks=1820235745,4104185692
+dimwishlist:item=2496875173&perks=1168162263,4104185692
+dimwishlist:item=2496875173&perks=1354429876,4104185692
+dimwishlist:item=2496875173&perks=1354429876,4049631843
+dimwishlist:item=2496875173&perks=1168162263,4049631843
+dimwishlist:item=2496875173&perks=1820235745,4049631843
+dimwishlist:item=2496875173&perks=2779035018,4049631843
+dimwishlist:item=2496875173&perks=2779035018,3425386926
+dimwishlist:item=2496875173&perks=1820235745,3425386926
+dimwishlist:item=2496875173&perks=1168162263,3425386926
+dimwishlist:item=2496875173&perks=1354429876,3425386926
+dimwishlist:item=2496875173&perks=1354429876,2458213969
+dimwishlist:item=2496875173&perks=1168162263,2458213969
+dimwishlist:item=2496875173&perks=1820235745,2458213969
+dimwishlist:item=2496875173&perks=2779035018,2458213969
+
+THE LONG WALK
+//notes:(PVE) This gun can do some NASTY damage. Not as good as succession, but it's a good second if you don't wanna grind DSC.
+dimwishlist:item=3326850591&perks=3643424744,1771339417
+dimwishlist:item=3326850591&perks=3643424744,4104185692
+
+//notes:(PVP) This is pretty nice sniper. Has the same zoom level as cloudstrike and occluded if you like those.
+dimwishlist:item=3326850591&perks=3161816588,706527188
+dimwishlist:item=3326850591&perks=3161816588,957782887
+dimwishlist:item=3326850591&perks=2450788523,957782887
+dimwishlist:item=3326850591&perks=2450788523,706527188
+
+SHEPHERD'S WATCH
+//notes:(PVP) Yet another good pvp sniper. You love to see it.
+dimwishlist:item=3743729616&perks=2866798147,47981717
+dimwishlist:item=3743729616&perks=588594999,47981717
+dimwishlist:item=3743729616&perks=588594999,957782887
+dimwishlist:item=3743729616&perks=588594999,47981717
+
+PUNCHING OUT
+//notes:(PVE) We stan full auto sidearms, and this one is a beast (for a sidearm anyway)
+dimwishlist:item=378498222&perks=3643424744,4104185692
+dimwishlist:item=378498222&perks=2779035018,4104185692
+dimwishlist:item=378498222&perks=1820235745,4104185692
+dimwishlist:item=378498222&perks=1195158366,4104185692
+dimwishlist:item=378498222&perks=3643424744,1015611457
+dimwishlist:item=378498222&perks=2779035018,1015611457
+dimwishlist:item=378498222&perks=1820235745,1015611457
+dimwishlist:item=378498222&perks=1195158366,1015611457
+dimwishlist:item=378498222&perks=1195158366,4082225868
+dimwishlist:item=378498222&perks=1820235745,4082225868
+dimwishlist:item=378498222&perks=2779035018,4082225868
+dimwishlist:item=378498222&perks=3643424744,4082225868
+
+//notes:(PVP) This is one of the better sidearms for pvp imo
+dimwishlist:item=378498222&perks=3643424744,1015611457
+dimwishlist:item=378498222&perks=2450788523,1015611457
+dimwishlist:item=378498222&perks=3436462433,1015611457
+dimwishlist:item=378498222&perks=706527188,1015611457
+dimwishlist:item=378498222&perks=2846385770,1015611457
+dimwishlist:item=378498222&perks=2846385770,4082225868
+dimwishlist:item=378498222&perks=706527188,4082225868
+dimwishlist:item=378498222&perks=3436462433,4082225868
+dimwishlist:item=378498222&perks=2450788523,4082225868
+dimwishlist:item=378498222&perks=3643424744,4082225868
+
+CONTINGENCY PLAN
+//notes:(PVP) Don't sleep on this, it's kinda cracked.
+dimwishlist:item=577528837&perks=3436462433,4104185692
+dimwishlist:item=577528837&perks=2866798147,4104185692
+dimwishlist:item=577528837&perks=2946784966,4104185692
+
+PEACEBOND
+//notes:(PVP) No one likes sidearms, but this is more of a close range pulse.
+dimwishlist:item=829330711&perks=2846385770,591790007
+dimwishlist:item=829330711&perks=2846385770,4082225868
+
+FORGE'S PLEDGE
+//notes:LITERAL GARBAGE. EXPLAINED: https://www.youtube.com/watch?v=0PrdREz2TyA
+dimwishlist:item=-1076810832
+
+CHRYSURA MELO
+//notes:(PVE) As of season 15, one of the only two unsunsetted 360RPM auto's. I likey.
+dimwishlist:item=1337707096&perks=1168162263,4104185692
+dimwishlist:item=1337707096&perks=1354429876,4104185692
+dimwishlist:item=1337707096&perks=2621346526,4104185692
+dimwishlist:item=1337707096&perks=1570042021,4104185692
+dimwishlist:item=1337707096&perks=1168162263,2848615171
+dimwishlist:item=1337707096&perks=1570042021,2458213969
+
+REED'S REGRET + ADEPT
+//notes:(PVE) I'll probably never get this gun because haha trials, but this perk combo could be interesting during s15
+dimwishlist:item=1399243961&perks=3400784728,1771339417
+dimwishlist:item=2475355656&perks=3400784728,1771339417
+
+VULPECULA
+//notes:(PVP) 180's are trash in pvp, but if you like them, this could be a good roll.
+dimwishlist:item=1622998472&perks=2450788523,47981717
+dimwishlist:item=1622998472&perks=1195158366,47981717
+dimwishlist:item=1622998472&perks=2450788523,438098033
+dimwishlist:item=1622998472&perks=2946784966,47981717
+dimwishlist:item=1622998472&perks=2621346526,47981717
+
+//notes:(PVE) This is a weird gun all around, but a stasis build with headstone or any end game build with shoot to loot could do wonders
+dimwishlist:item=1622998472&perks=3700496672,438098033
+dimwishlist:item=1622998472&perks=3700496672,124408337
+dimwishlist:item=1622998472&perks=1168162263,124408337
+dimwishlist:item=1622998472&perks=3700496672,3038247973
+
+A SWIFT VERDICT
+//notes:Non-burst/instrinsic full auto sidearms are garbage in all content imo.
+dimwishlist:item=-1626503676
+
+THE HOTHEAD + ADEPT
+//notes:(PVE) This gun doesn't really beat either the seasonal launcher OR the hezen vengence, but if you just like the gun this could be a decent roll
+dimwishlist:item=1866778462&perks=2869569095,1546637391
+dimwishlist:item=1866778462&perks=2869569095,3194351027
+dimwishlist:item=1866778462&perks=3523296417,2284787283
+dimwishlist:item=4255171531&perks=2869569095,1546637391
+dimwishlist:item=4255171531&perks=2869569095,3194351027
+dimwishlist:item=4255171531&perks=3523296417,2284787283
+
+CANIS MAJOR
+//notes:(PVE) Rockets are better in general as of writing this due to their burst potential, but this could be a fine alternative.
+dimwishlist:item=2066434718&perks=3301904089,951095735,1546637391
+dimwishlist:item=2066434718&perks=3301904089,2869569095,1546637391
+dimwishlist:item=2066434718&perks=3301904089,2284787283,1546637391
+
+THE COMEDIAN + ADEPT
+//notes:(PVE) Sadly, this weapon isn't great. Best used for ad clear imo, maybe some yellow bars.
+dimwishlist:item=2443900757&perks=1820235745,1546637391
+dimwishlist:item=2443900757&perks=1820235745,4049631843
+dimwishlist:item=2443900757&perks=1820235745,2360754333
+dimwishlist:item=1028582252&perks=1820235745,1546637391
+dimwishlist:item=1028582252&perks=1820235745,4049631843
+dimwishlist:item=1028582252&perks=1820235745,2360754333
+
+SPOILER ALERT
+//notes:Cmon, it's a sidearm. At least use one that's full auto or burst.
+dimwishlist:item=-2588048270
+
+A SUDDEN DEATH
+//notes:(PVP) Aggressive frames have always been decent, nerfs have hurt it a bit though.
+dimwishlist:item=2855157553&perks=3436462433,957782887
+dimwishlist:item=2855157553&perks=3161816588,957782887
+
+//notes:(PVE) if 1-2 Punch ever gets buffed this will be great
+dimwishlist:item=2855157553&perks=1631667848,2679249093
+
+IOTA DRACONIS
+//notes:(PVE) This isn't an amazing gun on paper, but these rolls just FEEL nice imo. PVE only!
+dimwishlist:item=3044460004&perks=1687452232,2213355989
+dimwishlist:item=3044460004&perks=2779035018,2213355989
+
+FRACTETHYST
+//notes:(PVP) This is a good feeling primary slot shotgun. Try it, you'll enjoy it.
+dimwishlist:item=3184681056&perks=3161816588,47981717
+dimwishlist:item=3184681056&perks=706527188,47981717
+dimwishlist:item=3184681056&perks=2621346526,47981717
+
+LEGAL ACTION II
+//notes:(PVE) This is a nice cold denial replacement imo.
+dimwishlist:item=3409645497&perks=2779035018,3425386926
+dimwishlist:item=3409645497&perks=1570042021,3425386926
+
+//notes:(PVP) This is second to messenger, but that's it.
+dimwishlist:item=3409645497&perks=3436462433,3425386926
+dimwishlist:item=3409645497&perks=1570042021,3425386926
+
+WOLFTONE DRAW
+//notes:(PVE) This has some interesting perk combos as a bow, it's fine.
+dimwishlist:item=3472875143&perks=951095735,3673922083
+dimwishlist:item=3472875143&perks=951095735,4104185692
+dimwishlist:item=3472875143&perks=201365942,4104185692
+dimwishlist:item=3472875143&perks=3700496672,4104185692
+
+WAKING VIGIL
+//notes:(PVP) Yet another 140 HC.
+dimwishlist:item=334171687&perks=2846385770,47981717
+dimwishlist:item=334171687&perks=2846385770,957782887
+dimwishlist:item=334171687&perks=3161816588,957782887
+dimwishlist:item=334171687&perks=3161816588,47981717
+dimwishlist:item=334171687&perks=2450788523,47981717
+dimwishlist:item=334171687&perks=2450788523,957782887
+
+RETOLD TALE
+//notes:(PVP) This gun feels very nice to use.
+dimwishlist:item=346136302&perks=3436462433,957782887
+dimwishlist:item=346136302&perks=3436462433,2450788523
+dimwishlist:item=346136302&perks=3161816588,957782887
+dimwishlist:item=346136302&perks=3161816588,2450788523
+dimwishlist:item=346136302&perks=706527188,957782887
+dimwishlist:item=346136302&perks=706527188,2450788523
+
+TIGERSPITE
+//notes:(PVE) I fucking love this gun lol
+dimwishlist:item=640114618&perks=1168162263,1015611457
+dimwishlist:item=640114618&perks=1168162263,4104185692
+dimwishlist:item=640114618&perks=1820235745,4104185692
+dimwishlist:item=640114618&perks=1820235745,1015611457
+dimwishlist:item=640114618&perks=3643424744,1015611457
+dimwishlist:item=640114618&perks=3643424744,4104185692
+
+ABIDE THE RETURN
+//notes:ew
+dimwishlist:item=-1644160541
+
+VOUCHSAFE
+//notes:(PVE) A nice void scout, solid all around
+dimwishlist:item=3242168339&perks=247725512,3038247973
+dimwishlist:item=3242168339&perks=247725512,2458213969
+dimwishlist:item=3242168339&perks=1168162263,2458213969
+dimwishlist:item=3242168339&perks=1168162263,3038247973
+dimwishlist:item=3242168339&perks=1354429876,3038247973
+dimwishlist:item=3242168339&perks=1354429876,2458213969
+
+TWILIGHT OATH
+//notes:(PVP) It's alright, I know some people adore it.
+dimwishlist:item=3297863558&perks=47981717,957782887
+dimwishlist:item=3297863558&perks=2450788523,957782887
+
+SLEEPLESS
+//notes:(PVE) Outclassed by some newer weapons, but has a great possible perk roll here with impact and vorpal.
+dimwishlist:item=3740842661&perks=3796465595,3300816228,1546637391
+dimwishlist:item=3740842661&perks=3796465595,2869569095,1546637391
+
+PREMONITION
+//notes:(PVP) This gun can somewhat compete with messenger BECAUSE of headseeker. You want headseeker. Headseeker good.
+dimwishlist:item=208088207&perks=3436462433,460017080
+dimwishlist:item=208088207&perks=588594999,460017080
+dimwishlist:item=208088207&perks=2450788523,460017080
+
+ONE SMALL STEP
+//notes:(PVE) This used to be somewhat meta bc of 1-2 punch. If it gets meta again, you'll wanna keep this. (other rolls are decent too, if you like shotguns in pve)
+dimwishlist:item=1016668089&perks=2679249093
+dimwishlist:item=1016668089&perks=2779035018,4049631843
+
+TRANQUILITY
+//notes:(PVE) This gun was kinda murdered by the new perks, but this is fine.
+dimwishlist:item=1645386487&perks=3300816228,1771339417
+
+APOSTATE
+//notes:(PVP) This gun is fairly niche, but has good perks. Low af zoom, see if you like it.
+dimwishlist:item=2164448701&perks=2450788523,47981717
+dimwishlist:item=2164448701&perks=2866798147,47981717
+
+ARC LOGIC
+//notes:(PVE) This gun has a weirdly good feeling to shooting it. Decent perks, enjoy.
+dimwishlist:item=2723909519&perks=3643424744,3425386926
+dimwishlist:item=2723909519&perks=1820235745,3425386926
+dimwishlist:item=2723909519&perks=1570042021,3425386926
+dimwishlist:item=2723909519&perks=2779035018,3425386926
+dimwishlist:item=2723909519&perks=3643424744,4104185692
+dimwishlist:item=2723909519&perks=1820235745,4104185692
+dimwishlist:item=2723909519&perks=1570042021,4104185692
+
+BLASPHEMER
+//notes:(PVP) I love precision frames, I love this gun
+dimwishlist:item=2782847179&perks=3436462433,47981717
+dimwishlist:item=2782847179&perks=706527188,47981717
+dimwishlist:item=2782847179&perks=706527188,4082225868
+dimwishlist:item=2782847179&perks=3436462433,4082225868
+
+DREAM BREAKER
+//notes:They butchered this when re-issuing it. God roll used to be rangefinder tap the trigger for pvp, those are both gone.
+dimwishlist:item=-2931957300
+
+HERETIC
+//notes:(PVE) This is fine, not best in slot.
+dimwishlist:item=3067821200&perks=3796465595,951095735,3927722942
+dimwishlist:item=3067821200&perks=3796465595,2869569095,3927722942
+dimwishlist:item=3067821200&perks=3796465595,2869569095,3523296417
+dimwishlist:item=3067821200&perks=3796465595,951095735,3523296417
+
+A FINE MEMORIAL
+//notes:(PVE) This is a fine ad clear weapon, fingers crossed machine guns get a further buff
+dimwishlist:item=3325778512&perks=1820235745,4104185692
+dimwishlist:item=3325778512&perks=1820235745,4049631843
+dimwishlist:item=3325778512&perks=1820235745,3523296417
+dimwishlist:item=3325778512&perks=1570042021,4104185692
+dimwishlist:item=3325778512&perks=1570042021,4049631843
+
+LOVE AND DEATH
+//notes:(PVE) This roll used to be META, it's less meta now but still stonks DPS.
+dimwishlist:item=3690523502&perks=3301904089,2869569095,2888557110
+
+NIGHT TERROR
+//notes:(PVE) This sword is meh, but this roll is fine and it looks cool.
+dimwishlist:item=3870811754&perks=1749209109,3913600130
+
+LOUD LULLABY
+//notes:(PVP) 120's are kinda doodoo now, but if they get a buff again this could be sick.
+dimwishlist:item=3924212056&perks=2946784966,1015611457
+dimwishlist:item=3924212056&perks=3161816588,1015611457
+
+//notes:(PVE) This will pop some heads
+dimwishlist:item=3924212056&perks=1820235745,4104185692
+dimwishlist:item=3924212056&perks=1820235745,1015611457
+dimwishlist:item=3924212056&perks=1820235745,3038247973
+
+EVERY WAKING MOMENT
+//notes:(PVE) I've never gotten a good roll lmao, looks fun on paper.
+dimwishlist:item=4277547616&perks=1820235745,2458213969
+dimwishlist:item=4277547616&perks=1820235745,1015611457
+dimwishlist:item=4277547616&perks=1570042021,1015611457
+dimwishlist:item=4277547616&perks=1570042021,2458213969
+
+IGNITION CODE
+//notes:(PVE) This is the end game gun
+dimwishlist:item=304659313&perks=3032599245,3161816588
+dimwishlist:item=304659313&perks=3301904089,3161816588,1546637391
+dimwishlist:item=304659313&perks=3301904089,3161816588,1546637391
+
+FAREWELL
+//notes:it's a sidearm
+dimwishlist:item=-541188001
+
+CHROMA RUSH
+//notes:(PVE) holy shit holy shit holy shit this feels so nice
+dimwishlist:item=1119734784&perks=1820235745,3425386926
+dimwishlist:item=1119734784&perks=1570042021,3425386926
+
+//notes:(PVP) this is good
+dimwishlist:item=1119734784&perks=1359896290,1890422124
+
+GRIDSKIPPER
+//notes:(PVP) best rapid fire pulse in the game, it melts
+dimwishlist:item=1621558458&perks=2946784966,2458213969
+dimwishlist:item=1621558458&perks=2450788523,2458213969
+dimwishlist:item=1621558458&perks=1570042021,2458213969
+dimwishlist:item=1621558458&perks=588594999,2458213969
+
+DEAFENING WHISPER
+//notes:(PVE) hell yes, give it to me zaddy
+dimwishlist:item=981718087&perks=2010801679,3592538738
+dimwishlist:item=981718087&perks=2010801679,3425386926
+
+FRICTION FIRE
+//notes:(PVE) brrrrr, decent gun
+dimwishlist:item=1513993763&perks=1820235745,3425386926
+dimwishlist:item=1513993763&perks=4071163871,3425386926
+dimwishlist:item=1513993763&perks=2450788523,3425386926
+
+BLAST BATTUE
+//notes: eh, it's ok
+dimwishlist:item=2453357042&perks=3301904089,2284787283,3300816228
+
+CORSAIR'S WRATH
+//notes: eh, it's ok
+dimwishlist:item=2714022207&perks=1168162263,2213355989
+
+ROYAL CHASE
+//notes: (PVE) feels fine, fine perks
+dimwishlist:item=2776503072&perks=4267945040,2848615171
+dimwishlist:item=2776503072&perks=4267945040,2458213969
+
+CROWD PLEASER
+//notes: eh, it's fine
+dimwishlist:item=3565520715&perks=3301904089,2869569095,3523296417
+dimwishlist:item=3565520715&perks=3301904089,2284787283,3523296417
+
+ARCTIC HAZE
+//notes:(PVE) I don't enjoy most 720's, but this feels fun to shoot
+dimwishlist:item=20935540&perks=1820235745,2848615171
+dimwishlist:item=20935540&perks=1168162263,2848615171
+
+SUBZERO SALVO
+//notes:(PVE) It's bottom of the class for sure, but there are some ok combinations
+dimwishlist:item=42351395&perks=2010801679,2396489472
+dimwishlist:item=42351395&perks=3796465595,1275731761
+
+HIGH ALBEDO
+//notes:(PVP) We stan 3 round burst sidearms
+dimwishlist:item=1197486957&perks=2450788523,460017080
+dimwishlist:item=1197486957&perks=3436462433,460017080
+
+BITING WINDS
+//notes:garbo, no impulse amp or that other perk I can't remember the name of
+dimwishlist:item=-1621657423
+
+THERMAL EROSION
+//notes:(PVE) brrrrr, very fast with decent perks
+dimwishlist:item=1766088024&perks=2387244414,3523296417
+dimwishlist:item=1766088024&perks=2387244414,2848615171
+dimwishlist:item=1766088024&perks=2450788523,2848615171
+dimwishlist:item=1766088024&perks=2450788523,2848615171
+
+HAILING CONFUSION
+//notes:(PVE) This is fine, not great. There are better options.
+dimwishlist:item=2870169846&perks=1168162263,4267945040
+dimwishlist:item=2870169846&perks=1168162263,3523296417
+dimwishlist:item=2870169846&perks=1168162263,3592538738
+dimwishlist:item=2870169846&perks=3436462433,3592538738
+
+CORIOLIS FORCE
+//notes:(PVP) It's not great, but it's not trash
+dimwishlist:item=3512349612&perks=2450788523,2846385770
+dimwishlist:item=3512349612&perks=1645158859,2846385770
+
+//notes:(PVE) Fusions are all decent in s15
+dimwishlist:item=3512349612&perks=2779035018,2726471870
+dimwishlist:item=3512349612&perks=2779035018,4049631843
+dimwishlist:item=3512349612&perks=2450788523,2726471870
+
+BONECHILLER
+//notes:(PVE) A subpar auto loading slug for dps
+dimwishlist:item=4037745684&perks=3300816228,3523296417
+
+PLEIADES CORRECTOR
+//notes: eh
+dimwishlist:item=3556999246&perks=1820235745,2458213969
+
+MEMORY INTERDICT
+//notes: very very subpar, just not worth it over other options.
+dimwishlist:item=-3165547384
+
+THE NUMBER
+//notes: yet another subpar gun from FWC, please only use this until you find better
+dimwishlist:item=2492081469&perks=2450788523,2458213969
+dimwishlist:item=2492081469&perks=2450788523,4049631843
+
+THE VISION
+//notes: we normally stan burst sidearms, but this one feels wrong for some reason. I do not stan.
+dimwishlist:item=-2414141462
+
+THE DEICIDE
+//notes:(PVE) Currently not that great, if graverobber/1-2 punch ever get buffed it could be great
+dimwishlist:item=217140611&perks=1631667848,2679249093
+
+THE FOOL'S REMEDY
+//notes:(PVP) We stan full auto sidearms
+dimwishlist:item=65611680&perks=588594999,2846385770
+dimwishlist:item=65611680&perks=1866048759,2846385770
+dimwishlist:item=65611680&perks=588594999,11551321
+
+RIISWALKER
+//notes:(PVP) Why can't I get a god damn good roll of this, you lucky bastard. Try for full choke or smoothbore!
+dimwishlist:item=108221785&perks=3436462433,591790007
+dimwishlist:item=108221785&perks=3436462433,2450788523
+dimwishlist:item=108221785&perks=2039302152,2450788523
+dimwishlist:item=108221785&perks=2039302152,591790007
+dimwishlist:item=108221785&perks=1866048759,591790007
+dimwishlist:item=108221785&perks=466087222,3142289711,3436462433,591790007
+
+OCCLUDED FINALITY
+//notes:(PVP) Some guy named kable loves this, so it must be good right
+dimwishlist:item=852551895&perks=957782887,47981717
+dimwishlist:item=852551895&perks=2866798147,47981717
+
+THE GUIDING SIGHT
+//notes:This gun is pretty doodoo, but this is an ok roll I guess
+dimwishlist:item=1641430382&perks=247725512,1546637391
+
+THE FORWARD PATH
+//notes:(PVP) this is ok
+dimwishlist:item=1690783811&perks=1359896290,1890422124
+dimwishlist:item=1690783811&perks=1359896290,11551321
+
+ARCHON'S THUNDER
+//notes:(PVE) This gun triggers me because I get it every other damn token turn in. It's fine.
+dimwishlist:item=1967303408&perks=2450788523,3425386926
+
+THE STEADY HAND
+//notes:(PVP) Hell yeah, if only 120's were still good
+dimwishlist:item=2220884262&perks=706527188,957782887
+dimwishlist:item=2220884262&perks=2450788523,957782887
+dimwishlist:item=2220884262&perks=3161816588,957782887
+dimwishlist:item=2220884262&perks=588594999,957782887
+
+THE TIME-WORN SPIRE
+//notes:(PVP/PVE) This gun is all around average. Use your brain with the rolls for which activity you wanna use them in.
+dimwishlist:item=3593598010&perks=1820235745,3425386926
+dimwishlist:item=3593598010&perks=588594999,591790007
+dimwishlist:item=3593598010&perks=588594999,11551321
+
+MULTIMACH CCX
+//notes:(PVP) This gun is decent, but outclassed by a few other options in the energy slot.
+dimwishlist:item=3717177717&perks=1359896290,591790007
+dimwishlist:item=3717177717&perks=2450788523,591790007
+dimwishlist:item=3717177717&perks=2450788523,1015611457
+
+FINITE IMPACTOR
+//notes:(PVP) This gun feels weird to shoot, and I can't put my finger on why.
+dimwishlist:item=3813153080&perks=2039302152,591790007
+dimwishlist:item=3813153080&perks=2450788523,591790007
+dimwishlist:item=3813153080&perks=2866798147,591790007
+
+TEMPTATION'S HOOK
+//notes:(PVE) This is a fine caster frame sword, if that's what you're into.
+dimwishlist:item=35794111&perks=1749209109,1546637391
+dimwishlist:item=35794111&perks=1749209109,3913600130
+
+WHISPERING SLAB
+//notes:(PVE) This is a fine kinetic bow. I don't care for bows myself.
+dimwishlist:item=211938782&perks=201365942,3523296417
+dimwishlist:item=211938782&perks=2450788523,3523296417
+dimwishlist:item=211938782&perks=2450788523,1546637391
+dimwishlist:item=211938782&perks=201365942,1546637391
+
+BERENGER'S MEMORY
+//notes:(PVE) This is fine, not great.
+dimwishlist:item=407621213&perks=3301904089,2869569095,3300816228vvv
+dimwishlist:item=407621213&perks=3301904089,2869569095,3523296417
+
+HOLLOW WORDS
+//notes:(PVP) eh
+dimwishlist:item=607191995&perks=2969185026,2039302152,1546637391
+
+FALLING GUILLOTINE
+//notes:(PVE) AWOOGA AWOOGA this is stonks as frick
+dimwishlist:item=614426548&perks=1749209109,3913600130
+dimwishlist:item=614426548&perks=2590710093,3913600130
+
+IKELOS_SG_V1.0.2
+//notes:(PVE) This was really good once, hopefully trench gets a buff soon.
+dimwishlist:item=1096206669&perks=2779035018,2360754333
+dimwishlist:item=1096206669&perks=4071163871,1546637391
+
+IKELOS_HC_V1.0.2
+//notes:(PVE) 180's are in a weird place, but the perks on this are neat
+dimwishlist:item=1200824700&perks=1820235745,3425386926
+dimwishlist:item=1200824700&perks=3400784728,3425386926
+dimwishlist:item=1200824700&perks=3400784728,1546637391
+
+COLD DENIAL
+//notes:(PVP) BRR BRR BRR
+dimwishlist:item=1216130969&perks=2779035018,2458213969
+dimwishlist:item=1216130969&perks=2779035018,460017080
+dimwishlist:item=1216130969&perks=2450788523,460017080
+dimwishlist:item=1216130969&perks=2387244414,460017080
+
+IKELOS_SR_V1.0.2
+//notes:(PVP) This is fine, not amazing at all
+dimwishlist:item=1253087083&perks=588594999,706527188
+dimwishlist:item=1253087083&perks=2866798147,706527188
+dimwishlist:item=1253087083&perks=2866798147,2551157718
+dimwishlist:item=1253087083&perks=588594999,2551157718
+
+WIDOW'S BITE
+//notes:I despise this gun and everything about it
+dimwishlist:item=-1271343896
+
+IKELOS_SMG_V1.0.2
+//notes:(PVE) This is a warmind MACHINE
+dimwishlist:item=2222560548&perks=4071163871,3708227201
+dimwishlist:item=2222560548&perks=1820235745,3708227201
+dimwishlist:item=2222560548&perks=1820235745,1683379515
+dimwishlist:item=2222560548&perks=1820235745,3523296417
+dimwishlist:item=2222560548&perks=4071163871,3523296417
+
+DEATH ADDER
+//notes:(PVE) A close replacement for recluse
+dimwishlist:item=2742490609&perks=2779035018,2848615171
+dimwishlist:item=2742490609&perks=1820235745,2848615171
+dimwishlist:item=2742490609&perks=1820235745,1683379515
+dimwishlist:item=2742490609&perks=2779035018,1683379515
+
+FALSE PROMISES
+//notes:(PVE) This is chroma rush before it was cool
+dimwishlist:item=3143732432&perks=3643424744,3425386926
+dimwishlist:item=3143732432&perks=1820235745,3425386926
+dimwishlist:item=3143732432&perks=2450788523,3425386926
+dimwishlist:item=3143732432&perks=2779035018,3425386926
+
+FIRST IN, LAST OUT
+//notes:(PVE) DOUBLE SLUG IT BABY
+dimwishlist:item=3616586446&perks=3300816228,1546637391
+
+NEGATIVE SPACE
+//notes:Always an instant delete from me chief
+dimwishlist:item=-3629968765
+
+HOOSEGOW
+//notes:(PVP) Only because it has tracking + cluster, it would be great in PVE if it had vorpal or impulse
+dimwishlist:item=3669616453&perks=3977735242,1275731761
+
+FAR FUTURE
+//notes:(PVP) idk I've never used it, just looking at it on paper this seems decent. Low zoom.
+dimwishlist:item=893527433&perks=706527188,47981717
+dimwishlist:item=893527433&perks=588594999,47981717
+
+EXTRAORDINARY RENDITION
+//notes:(PVE) This thing absoultely melts red bars.
+dimwishlist:item=1097616550&perks=1820235745,3425386926
+dimwishlist:item=1097616550&perks=1820235745,4104185692
+dimwishlist:item=1097616550&perks=1820235745,4049631843
+dimwishlist:item=1097616550&perks=1820235745,2458213969
+dimwishlist:item=1097616550&perks=3643424744,3425386926
+dimwishlist:item=1097616550&perks=1168162263,3425386926
+
+BRASS ATTACKS
+//notes:(PVE) We stan burst sidearms
+dimwishlist:item=2121785039&perks=2779035018,3425386926
+
+CODE DUELLO
+//notes:(PVE) BOOM SCAT BOOM SCAT holy FRICK WIPE FOR DPS. You NEED impact casing for boss DPS.
+dimwishlist:item=2496242052&perks=3796465595,951095735,3927722942
+dimwishlist:item=2496242052&perks=3796465595,3300816228,3927722942
+
+THREADED NEEDLE
+//notes:(PVE) s15 is the TIME TO USE THIS!
+dimwishlist:item=3075224551&perks=2284787283,1546637391
+dimwishlist:item=3075224551&perks=3300816228,1546637391
+
+IMPERIAL NEEDLE
+//notes:(PVE) I mean, it's a bow
+dimwishlist:item=3460122497&perks=201365942,4104185692
+dimwishlist:item=3460122497&perks=951095735,4104185692
+dimwishlist:item=3460122497&perks=2450788523,4104185692
+
+CORRECTIVE MEASURE + TIMELOST
+//notes:(PVE) This has some great perks!
+dimwishlist:item=471518543&perks=3418782618,3824105627
+dimwishlist:item=471518543&perks=1820235745,3824105627
+dimwishlist:item=471518543&perks=2779035018,3824105627
+dimwishlist:item=471518543&perks=1359896290,3824105627
+dimwishlist:item=471518543&perks=1359896290,4049631843
+dimwishlist:item=471518543&perks=1359896290,2213355989
+dimwishlist:item=3796510434&perks=3418782618,3824105627
+dimwishlist:item=3796510434&perks=1820235745,3824105627
+dimwishlist:item=3796510434&perks=2779035018,3824105627
+dimwishlist:item=3796510434&perks=1359896290,3824105627
+dimwishlist:item=3796510434&perks=1359896290,4049631843
+dimwishlist:item=3796510434&perks=1359896290,2213355989
+
+FOUND VERDICT + TIMELOST
+//notes:(PVP) People like this, I'm not a huge fan.
+dimwishlist:item=631439337&perks=3161816588,47981717
+dimwishlist:item=631439337&perks=3436462433,47981717
+dimwishlist:item=3197270240&perks=3161816588,47981717
+dimwishlist:item=3197270240&perks=3436462433,47981717
+
+//notes:(PVE) Could be good if these perks get buffed later
+dimwishlist:item=631439337&perks=3418782618,2679249093
+dimwishlist:item=631439337&perks=3300816228,2679249093
+dimwishlist:item=631439337&perks=3418782618,4104185692
+dimwishlist:item=3197270240&perks=3418782618,2679249093
+dimwishlist:item=3197270240&perks=3300816228,2679249093
+dimwishlist:item=3197270240&perks=3418782618,4104185692
+
+VISION OF CONFLUENCE + TIMELOST
+//notes:(PVE) Not too bad! I use it in GMs a lot.
+dimwishlist:item=3186018373&perks=3418782618,3824105627
+dimwishlist:item=3186018373&perks=3418782618,1683379515
+dimwishlist:item=3186018373&perks=3418782618,4104185692
+dimwishlist:item=690668916&perks=3418782618,3824105627
+dimwishlist:item=690668916&perks=3418782618,1683379515
+dimwishlist:item=690668916&perks=3418782618,4104185692
+
+FATEBRINGER + TIMELOST
+//notes:(PVE) I ADORE THIS GUN
+dimwishlist:item=1216319404&perks=3038247973,3824105627
+dimwishlist:item=1216319404&perks=3038247973,4104185692
+dimwishlist:item=1216319404&perks=3418782618,4104185692
+dimwishlist:item=1216319404&perks=3418782618,3824105627
+dimwishlist:item=2171478765&perks=3038247973,3824105627
+dimwishlist:item=2171478765&perks=3038247973,4104185692
+dimwishlist:item=2171478765&perks=3418782618,4104185692
+dimwishlist:item=2171478765&perks=3418782618,3824105627
+
+//notes:(PVP) Not too bad at all!
+dimwishlist:item=1216319404&perks=3038247973,47981717
+dimwishlist:item=2171478765&perks=3038247973,47981717
+
+HEZEN VENGEANCE + TIMELOST
+//notes:(PVE) Oh my GOD. AHHHHH BOOM. Get impact casing ASAP!
+dimwishlist:item=1921159786&perks=3300816228,1546637391
+dimwishlist:item=1921159786&perks=3300816228,3927722942
+dimwishlist:item=1921159786&perks=951095735,1546637391
+dimwishlist:item=1921159786&perks=951095735,3927722942
+dimwishlist:item=1921159786&perks=3643424744,1546637391
+dimwishlist:item=1921159786&perks=3643424744,3927722942
+dimwishlist:item=4050645223&perks=3300816228,1546637391
+dimwishlist:item=4050645223&perks=3300816228,3927722942
+dimwishlist:item=4050645223&perks=951095735,1546637391
+dimwishlist:item=4050645223&perks=951095735,3927722942
+dimwishlist:item=4050645223&perks=3643424744,1546637391
+dimwishlist:item=4050645223&perks=3643424744,3927722942
+
+PRAEDYTH'S REVENGE
+//notes:(PVE) This is a really good sniper.
+dimwishlist:item=1987769101&perks=3418782618,3824105627
+dimwishlist:item=1987769101&perks=3418782618,4104185692
+dimwishlist:item=1987769101&perks=3418782618,2213355989
+dimwishlist:item=3653573172&perks=3418782618,3824105627
+dimwishlist:item=3653573172&perks=3418782618,4104185692
+dimwishlist:item=3653573172&perks=3418782618,2213355989
+
+EXILE'S CURSE
+//notes:(PVP) brrr pew pew
+dimwishlist:item=679281855&perks=3161816588,1754714824
+dimwishlist:item=679281855&perks=2450788523,1754714824
+
+TOMORROW'S ANSWER
+//notes:(PVE) It's not too shabby
+dimwishlist:item=958384347&perks=951095735,3927722942
+dimwishlist:item=958384347&perks=3300816228,3927722942
+
+SOLA'S SCAR
+//notes:(PVE) Never personally used it, but it looks good on paper
+dimwishlist:item=1313528549&perks=2590710093,2396489472
+dimwishlist:item=1313528549&perks=1749209109,2396489472
+dimwishlist:item=1313528549&perks=1749209109,1546637391
+
+ASTRAL HORIZON
+//notes:(PVP) Not really the best aggressive, which isn't even the best archetype imo.
+dimwishlist:item=1697682876&perks=3436462433,47981717
+dimwishlist:item=1697682876&perks=3436462433,2450788523
+
+THE SUMMONER
+//notes:(PVP) A decent 600rpm. Good perks.
+dimwishlist:item=1907698332&perks=588594999,2846385770
+dimwishlist:item=1907698332&perks=2387244414,2846385770
+dimwishlist:item=1907698332&perks=1359896290,2846385770
+
+//notes:(PVE) A decent solar 600rpm.
+dimwishlist:item=1907698332&perks=3643424744,3425386926
+
+IGNEOUS HAMMER
+//notes:(PVP) Previously top tier before the 120 nerf.
+dimwishlist:item=2351180975&perks=247725512,3425386926
+dimwishlist:item=2351180975&perks=706527188,957782887
+dimwishlist:item=2351180975&perks=2450788523,3425386926
+dimwishlist:item=2351180975&perks=706527188,3425386926
+dimwishlist:item=2351180975&perks=1168162263,3425386926
+
+THE SCHOLAR
+//notes:(PVP) I hate this gun, but not everyone does
+dimwishlist:item=2478792241&perks=47981717,957782887
+dimwishlist:item=2478792241&perks=706527188,957782887
+
+EYE OF SOL
+//notes:(PVP) I mained this for a long time until I got my uzume
+dimwishlist:item=3164743584&perks=957782887,47981717
+dimwishlist:item=3164743584&perks=957782887,1546637391
+dimwishlist:item=3164743584&perks=2450788523,957782887
+dimwishlist:item=3164743584&perks=2866798147,957782887
+dimwishlist:item=3164743584&perks=2946784966,957782887
+
+THE MESSENGER
+//notes:(PVP) Only outclassed by NTTE imo. Despacito is a great perk.
+dimwishlist:item=3658188704&perks=1168162263,3047969693
+dimwishlist:item=3658188704&perks=247725512,3047969693
+dimwishlist:item=3658188704&perks=247725512,3047969693
+dimwishlist:item=3658188704&perks=247725512,3047969693
+dimwishlist:item=3658188704&perks=247725512,3047969693
+dimwishlist:item=3658188704&perks=247725512,1015611457
+
+SHAYURA'S WRATH
+//notes:(PVP) This thing M E L T S everyone around it
+dimwishlist:item=3682803680&perks=2450788523,1015611457
+dimwishlist:item=3682803680&perks=2450788523,1890422124
+dimwishlist:item=3682803680&perks=1359896290,1890422124
+dimwishlist:item=3682803680&perks=1359896290,1015611457
+dimwishlist:item=3682803680&perks=588594999,1015611457
+dimwishlist:item=3682803680&perks=588594999,1890422124
+dimwishlist:item=3682803680&perks=706527188,957782887
+
+SURVIVOR'S EPITAPH
+//notes:(PVP) If you like 180's, this has great perks to choose from.
+dimwishlist:item=310708513&perks=247725512,1015611457
+dimwishlist:item=310708513&perks=2450788523,1015611457
+dimwishlist:item=310708513&perks=706527188,1015611457
+dimwishlist:item=310708513&perks=3161816588,1015611457
+
+THE KEENING
+//notes:I hate hate hate hate hate this sidearm. Give me burst or give me nothing.
+dimwishlist:item=-409551876
+
+BORROWED TIME
+//notes:(PVP) People are sleeping on this gun. Get a range masterwork too.
+dimwishlist:item=875848769&perks=2846385770,1890422124
+
+//notes:(PVE) This feels pretty solid against trash ads
+dimwishlist:item=875848769&perks=2779035018,3425386926
+dimwishlist:item=875848769&perks=3643424744,3425386926
+dimwishlist:item=875848769&perks=3643424744,2848615171
+dimwishlist:item=875848769&perks=2779035018,4104185692
+dimwishlist:item=875848769&perks=2450788523,3425386926
+
+BOTTOM DOLLAR
+//notes:(PVP) yes please
+dimwishlist:item=1046651176&perks=2846385770,47981717
+dimwishlist:item=1046651176&perks=706527188,47981717
+dimwishlist:item=1046651176&perks=706527188,47981717
+
+STARS IN SHADOW
+//notes:(PVP) brr brr brr
+dimwishlist:item=2050789284&perks=1168162263,1015611457
+dimwishlist:item=2050789284&perks=2450788523,1015611457
+dimwishlist:item=2050789284&perks=1168162263,460017080
+dimwishlist:item=2050789284&perks=2450788523,588594999
+
+ROYAL ENTRY
+//notes:(PVE) boom
+dimwishlist:item=2448907086&perks=3796465595,951095735,3927722942
+dimwishlist:item=2448907086&perks=3796465595,3300816228,3927722942
+dimwishlist:item=2448907086&perks=3796465595,2869569095,3927722942
+
+XENOCLAST IV
+//notes:(PVE) pow
+dimwishlist:item=2891672170&perks=1631667848,2679249093
+dimwishlist:item=2891672170&perks=3300816228,2360754333
+dimwishlist:item=2891672170&perks=3300816228,1546637391
+
+TRINARY SYSTEM
+//notes:(PVP) eh
+dimwishlist:item=3258665412&perks=706527188,1600092898
+dimwishlist:item=3258665412&perks=3161816588,1600092898
+
+FROZEN ORBIT
+//notes:(PVP) It's fine, not amazing imo
+dimwishlist:item=3473290087&perks=2866798147,957782887
+dimwishlist:item=3473290087&perks=2450788523,957782887
+dimwishlist:item=3473290087&perks=588594999,957782887
+dimwishlist:item=3473290087&perks=3436462433,957782887
+dimwishlist:item=3473290087&perks=588594999,47981717
+
+CROWD PLEASER
+//notes:(PVE) It's fine, not best in class
+dimwishlist:item=3565520715&perks=3301904089,2869569095,3523296417
+dimwishlist:item=3565520715&perks=3301904089,2284787283,2396489472
+
+THE THIRD AXIOM
+//notes:(PVE) It's not too bad! Works in pvp too.
+dimwishlist:item=4156253727&perks=2779035018,3425386926
+dimwishlist:item=4156253727&perks=2779035018,2458213969
+dimwishlist:item=4156253727&perks=2779035018,460017080
+dimwishlist:item=4156253727&perks=1820235745,2458213969
+
+EMPTY VESSEL
+//notes:(PVE) AWOOGA AWOOGA
+dimwishlist:item=4255586669&perks=3301904089,3300816228,1546637391
+dimwishlist:item=4255586669&perks=3032599245,3300816228,1546637391
+dimwishlist:item=4255586669&perks=3032599245,3300816228,1683379515
+
+THE SWARM + ADEPT
+//notes:(PVE) Could be better, could be worse
+dimwishlist:item=47772649&perks=1168162263,2848615171
+dimwishlist:item=47772649&perks=2450788523,4049631843
+dimwishlist:item=47772649&perks=2450788523,2848615171
+dimwishlist:item=47772649&perks=2450788523,1546637391
+dimwishlist:item=3836861464&perks=1168162263,2848615171
+dimwishlist:item=3836861464&perks=2450788523,4049631843
+dimwishlist:item=3836861464&perks=2450788523,2848615171
+dimwishlist:item=3836861464&perks=2450788523,1546637391
+
+
+THE PALINDROME + ADEPT
+//notes:(PVP) AWOOGA GIMME GIMME
+dimwishlist:item=432476743&perks=706527188,2846385770
+dimwishlist:item=432476743&perks=1168162263,3425386926
+dimwishlist:item=432476743&perks=2450788523,3425386926
+dimwishlist:item=432476743&perks=706527188,3425386926
+
+dimwishlist:item=1481892490&perks=706527188,2846385770
+dimwishlist:item=1481892490&perks=1168162263,3425386926
+dimwishlist:item=1481892490&perks=2450788523,3425386926
+dimwishlist:item=1481892490&perks=706527188,3425386926
+
+PLUG ONE.1 + ADEPT
+//notes:(PVE) Does some good damage to yellow bars
+dimwishlist:item=534775659&perks=1570042021,1427256713
+dimwishlist:item=534775659&perks=2779035018,1427256713
+dimwishlist:item=1289000550&perks=1570042021,1427256713
+dimwishlist:item=1289000550&perks=2779035018,1427256713
+
+//notes:(PVP) This holds it's own in PVP against shotguns and other fusions imo
+dimwishlist:item=1289000550&perks=706527188,1754714824
+dimwishlist:item=1289000550&perks=706527188,1600092898
+dimwishlist:item=1289000550&perks=2450788523,1600092898
+dimwishlist:item=534775659&perks=706527188,1754714824
+dimwishlist:item=534775659&perks=706527188,1600092898
+dimwishlist:item=534775659&perks=2450788523,1600092898
+
+HUNG JURY SR4 + ADEPT
+//notes:(PVE) I adore this for end game content. AWOOGA.
+dimwishlist:item=681067419&perks=247725512,3824105627
+dimwishlist:item=681067419&perks=247725512,3038247973
+dimwishlist:item=681067419&perks=1820235745,3038247973
+dimwishlist:item=4281371574&perks=247725512,3824105627
+dimwishlist:item=4281371574&perks=247725512,3038247973
+dimwishlist:item=4281371574&perks=1820235745,3038247973
+
+UZUME RR4 + ADEPT
+//notes:(PVP) This will one shot a super out of the sky
+dimwishlist:item=852228780&perks=957782887,1546637391
+dimwishlist:item=2065081837&perks=957782887,1546637391
+
+//notes:(PVE) I've not been able to get this roll, but I WANT IT
+dimwishlist:item=852228780&perks=3400784728,1546637391
+dimwishlist:item=2065081837&perks=3400784728,1546637391
+
+SHADOW PRICE + ADEPT
+//notes:(PVE) This gun is just plain fun
+dimwishlist:item=2147010335&perks=3643424744,2848615171
+dimwishlist:item=2147010335&perks=2450788523,2848615171
+dimwishlist:item=2147010335&perks=3643424744,4082225868
+dimwishlist:item=2147010335&perks=1354429876,4049631843
+dimwishlist:item=2633186522&perks=3643424744,2848615171
+dimwishlist:item=2633186522&perks=2450788523,2848615171
+dimwishlist:item=2633186522&perks=3643424744,4082225868
+dimwishlist:item=2633186522&perks=1354429876,4049631843
+
+TRUSTEE
+//notes:(PVE) This (and all DSC guns) is fun to use
+dimwishlist:item=1392919471&perks=1523832109,2213355989
+dimwishlist:item=1392919471&perks=1523832109,3201496230
+dimwishlist:item=1392919471&perks=1523832109,3592538738
+
+SUCCESSION
+//notes:(PVE) AWOOGA, this is hot
+dimwishlist:item=2990047042&perks=1523832109,1546637391
+dimwishlist:item=2990047042&perks=1523832109,469285294
+dimwishlist:item=2990047042&perks=1523832109,469285294
+
+
+POSTERITY
+//notes:(PVE) This gun is fun to shoot, but that's about it
+dimwishlist:item=3281285075&perks=1523832109,3425386926
+dimwishlist:item=3281285075&perks=247725512,3425386926
+dimwishlist:item=3281285075&perks=247725512,3425386926
+
+BEQUEST
+//notes:Trash it, use anything else instead
+dimwishlist:item=-3366545721
+
+COMMEMORATION
+//notes:(PVE) Love the feel of this CHUNGA CHUNGA. Works fine in PVP too.
+dimwishlist:item=4230965989&perks=1523832109,3425386926
+dimwishlist:item=4230965989&perks=1523832109,2848615171
+dimwishlist:item=4230965989&perks=2779035018,2848615171
+
+HERITAGE
+//notes:(PVE) AWOOGA AWOOGA DOUBLE SLUG
+dimwishlist:item=4248569242&perks=1523832109,469285294
+dimwishlist:item=4248569242&perks=1523832109,2726471870
+
+ANCIENT GOSPEL
+//notes:(PVP) There are much better options, but this can do the job
+dimwishlist:item=48643186&perks=3161816588,2846385770
+dimwishlist:item=48643186&perks=3161816588,4082225868
+
+//notes:(PVE) If you like 140's in PVE, this can have some fun!
+dimwishlist:item=48643186&perks=247725512,1015611457
+dimwishlist:item=48643186&perks=1168162263,1015611457
+dimwishlist:item=48643186&perks=1168162263,2848615171
+dimwishlist:item=48643186&perks=1168162263,4082225868
+dimwishlist:item=48643186&perks=247725512,4082225868
+dimwishlist:item=48643186&perks=247725512,2848615171
+
+ZEALOT'S REWARD
+//notes:(PVE) Clear some ads with this and call it a day
+dimwishlist:item=2209003210&perks=2779035018,3425386926
+dimwishlist:item=2209003210&perks=3275789089,1683379515
+dimwishlist:item=2209003210&perks=3275789089,3425386926
+
+SACRED PROVENANCE
+//notes:(PVP) This gun feels crisp in crucible, and holds it's own in PVE too.
+dimwishlist:item=2408405461&perks=247725512,1015611457
+dimwishlist:item=2408405461&perks=247725512,460017080
+dimwishlist:item=2408405461&perks=1168162263,460017080
+
+RECKLESS ORACLE
+//notes:(PVE) 720's are... fine? I like something a bit slower personally.
+dimwishlist:item=3385326721&perks=1168162263,1015611457
+dimwishlist:item=3385326721&perks=1168162263,3523296417
+dimwishlist:item=3385326721&perks=1168162263,4082225868
+dimwishlist:item=3385326721&perks=3513791699,4082225868
+
+OMNISCIENT EYE
+//notes:(PVP) This was my favorite for a few months!
+dimwishlist:item=3454326177&perks=2866798147,957782887
+
+PROPHET OF DOOM
+//notes:(PVP) Good type of shotgun, use it
+dimwishlist:item=4020742303&perks=2039302152,47981717
+
+ACCRUED REDEMPTION
+//notes:(PVE) Eh, it's a bow
+dimwishlist:item=4095896073&perks=201365942,3365897133
+
+CHATTERING BONE
+//notes:(PVP) This has raving reviews on sites like light.gg, and for good reason. It simply smashes. If you have head seeker, really any other 3rd column perks are great imo.
+dimwishlist:item=568515759&perks=460017080
+
+//notes:(PVE) You can't go wrong with this roll in PVE, ad clear is great with this.
+dimwishlist:item=568515759&perks=1168162263,3425386926
+
+AGE-OLD BOND
+//notes:(PVP) If you're into 360 autos, you'll like this. I'd recommend a stability masterwork.
+dimwishlist:item=601592879&perks=1359896290,1015611457
+dimwishlist:item=601592879&perks=2387244414,1015611457
+dimwishlist:item=601592879&perks=1890422124,1015611457
+
+//notes:(PVE) This gun is very niche, but if you like it, you love it
+dimwishlist:item=601592879&perks=3400784728,2848615171
+dimwishlist:item=601592879&perks=3400784728,1015611457
+
+NATION OF BEASTS
+//notes:(PVP) I love this perk combo. The gun's stats are fine, but outclassed elsewhere.
+dimwishlist:item=654370424&perks=47981717,3038247973
+dimwishlist:item=654370424&perks=47981717,3425386926
+
+//notes:(PVE) This gun does the job, mostly for ad clear on red bars
+dimwishlist:item=654370424&perks=1168162263,3038247973
+dimwishlist:item=654370424&perks=1168162263,3425386926
+dimwishlist:item=654370424&perks=1168162263,3400784728
+dimwishlist:item=654370424&perks=1168162263,1015611457
+
+THE SUPREMACY
+//notes:(PVP) REALLY low zoom, if you like that this is a REALLY good sniper.
+dimwishlist:item=686951703&perks=957782887
+
+//notes:(PVE) Rapid fire frames aren't great for DPS, but if they ever get buffed this could be decent
+dimwishlist:item=686951703&perks=1168162263,3400784728
+
+1k Voices (meme)
+//notes:Delete this. You aren't allowed to have one until Melmsie has one.
+dimwishlist:item=-2069224589
+
+APEX PREDATOR
+//notes:(PVE) In 2021, this just doesn't really cut it as a good gun.
+dimwishlist:item=2545083870&perks=3096702027,3300816228
+
+TYRANNY OF HEAVEN
+//notes:(PVE) I mean, it's a bow
+dimwishlist:item=2721249463&perks=201365942,3365897133
+
+TRANSFIGURATION
+//notes:(PVE) This is only recommended because it's the only scout in the game (non-sunset) that can roll double damage perks afaik
+dimwishlist:item=3799980700&perks=3425386926,1015611457
+
+TECHEUN FORCE
+//notes:(PVP) This can be kinda nasty if used right!
+dimwishlist:item=4094657108&perks=1645158859,1600092898
+
+//notes:(PVE) In any other season, pass. But season 15, this is good.
+dimwishlist:item=4094657108&perks=1687452232,1645158859,2213355989
+
+LAST PERDITION
+//notes:(PVP) I slept on this gun for SO long, and I regret it. Don't be like me.
+dimwishlist:item=188882152&perks=1168162263,3425386926
+dimwishlist:item=188882152&perks=2846385770,1015611457
+dimwishlist:item=188882152&perks=1168162263,4267945040
+dimwishlist:item=188882152&perks=1168162263,1015611457
+dimwishlist:item=188882152&perks=2846385770,460017080
+dimwishlist:item=188882152&perks=588594999,460017080
+
+THE DEICIDE
+//notes:(PVE) This is my only hope for this gun. If grave robber 1-2 gets buffed, this is going to be NASTY.
+dimwishlist:item=217140611&perks=1631667848,2679249093
+
+MAIN INGREDIENT
+//notes:(PVP) This gun goes BRRRRRRR SPLAT to those shotgun rushers
+dimwishlist:item=253196586&perks=1645158859,2846385770
+dimwishlist:item=253196586&perks=1866048759,2846385770
+dimwishlist:item=253196586&perks=1866048759,1600092898
+dimwishlist:item=253196586&perks=1645158859,1600092898
+dimwishlist:item=253196586&perks=1645158859,706527188
+dimwishlist:item=253196586&perks=1866048759,706527188
+dimwishlist:item=253196586&perks=1866048759,1890422124
+dimwishlist:item=253196586&perks=1645158859,1890422124
+
+ARSENIC BITE-4B
+//notes:(PVE) I don't really care for bows, but this has some nice perk combos if YOU care for bows.
+dimwishlist:item=720351795&perks=3425386926,3365897133
+dimwishlist:item=720351795&perks=2848615171,3365897133
+dimwishlist:item=720351795&perks=2848615171,201365942
+dimwishlist:item=720351795&perks=3425386926,201365942
+
+GNAWING HUNGER
+//notes:(PVE) This is the grand-daddy of awesome auto rifles. I love this, I used it in GM's ALL THE TIME.
+dimwishlist:item=821154603&perks=1820235745,3425386926
+dimwishlist:item=821154603&perks=1820235745,4082225868
+dimwishlist:item=821154603&perks=1820235745,1015611457
+
+//notes:(PVP) This is a SOLID 600rpm for crucible.
+dimwishlist:item=821154603&perks=1890422124,1015611457
+dimwishlist:item=821154603&perks=1890422124,3425386926
+dimwishlist:item=821154603&perks=1890422124,4082225868
+
+BAD OMENS
+//notes:(PVE) Great for ad clear or smaller enemies, not great for boss DPS
+dimwishlist:item=991314988&perks=3300816228,1275731761
+dimwishlist:item=991314988&perks=3977735242,1275731761
+
+//notes:(PVP) Surprise, this gun is decent for pvp too! Proc that tracking and you get a free kill.
+dimwishlist:item=991314988&perks=1478423395,1996142143,3977735242,1275731761
+
+JIAN 7 RIFLE
+//notes:(PVP) Listen I'm not gonna say this gun is good, but a few very vocal people on light.gg advocate highly for this roll
+dimwishlist:item=1162247618&perks=1683379515,2846385770
+dimwishlist:item=1162247618&perks=4267945040,2846385770
+dimwishlist:item=1162247618&perks=2387244414,2846385770
+
+RETROFUTURIST
+//notes:(PVP) I've been sleeping on this gun for far too long, this roll can do some nice things if you like lightweight frames. Get the range masterwork, and ideally rifled barrel and assault mag.
+dimwishlist:item=1402766122&perks=706527188,957782887
+
+ENIGMA'S DRAW
+//notes: No full auto, no keep.
+dimwishlist:item=-1723380073
+
+ESCAPE VELOCITY
+//notes:(PVE) I've tried very hard to like this gun, but alas, I don't. This roll is decent though.
+dimwishlist:item=1786797708&perks=3643424744,3708227201
+dimwishlist:item=1786797708&perks=3643424744,1546637391
+
+NATURE OF THE BEAST
+//notes:(PVP) If you like 180's this is a FUN roll
+dimwishlist:item=1835747805&perks=957782887,2846385770
+dimwishlist:item=1835747805&perks=706527188,2846385770
+
+TRUTHTELLER
+//notes:(PVE) AWOOGA, this thing is a must have for end game content.
+dimwishlist:item=1946491241&perks=3032599245,3300816228,1683379515
+dimwishlist:item=1946491241&perks=3301904089,3300816228,3523296417
+
+THE LAST DANCE
+//notes:(PVP) I have seen people CLAP with this
+dimwishlist:item=2009277538&perks=588594999,2846385770
+dimwishlist:item=2009277538&perks=588594999,1890422124
+
+//notes:(PVE) Bounty completing machine!
+dimwishlist:item=2009277538&perks=4267945040,2848615171
+dimwishlist:item=2009277538&perks=4267945040,1015611457
+dimwishlist:item=2009277538&perks=1168162263,1015611457
+
+LONESOME
+//notes:TRASH, NOT A BURST OR FULL AUTO SO WE DONT STAN IT.
+dimwishlist:item=-2199171672
+
+INTERFERENCE VI
+//notes:(PVE) With this very niche perk set, it's decent for boss DPS
+dimwishlist:item=2257180473&perks=3301904089,3300816228,2888557110
+dimwishlist:item=2257180473&perks=3301904089,2869569095,2888557110
+dimwishlist:item=2257180473&perks=3301904089,2284787283,2888557110
+
+THE VISION
+//notes:(PVE) This has potential!
+dimwishlist:item=2414141462&perks=4267945040,4049631843
+dimwishlist:item=2414141462&perks=2450788523,4049631843
+dimwishlist:item=2414141462&perks=2450788523,4082225868
+dimwishlist:item=2414141462&perks=2450788523,1015611457
+
+CARTESIAN COORDINATE
+//notes:(PVE) In season 15, this is stonks.
+dimwishlist:item=2481881293&perks=1556840489,1546637391
+dimwishlist:item=2481881293&perks=2039302152,1546637391
+dimwishlist:item=2481881293&perks=1645158859,1546637391
+dimwishlist:item=2481881293&perks=1645158859,2213355989
+dimwishlist:item=2481881293&perks=2039302152,2213355989
+dimwishlist:item=2481881293&perks=1556840489,2213355989
+
+TRUE PROPHECY
+//notes:(PVP) If you enjoy 120's after the nerf still, this has GREAT perks.
+dimwishlist:item=2742838700&perks=2846385770,1954620775
+dimwishlist:item=2742838700&perks=2846385770,3038247973
+dimwishlist:item=2742838700&perks=47981717,3038247973
+dimwishlist:item=2742838700&perks=47981717,1954620775
+
+DIRE PROMISE
+//notes:(PVP) This has been my main since it came out. Some people find it shoots weirdly, but I enjoy it.
+dimwishlist:item=2742838701&perks=47981717,2846385770
+dimwishlist:item=2742838701&perks=957782887,2846385770
+
+DISTANT TUMULUS
+//notes:I hate this gun, how it feels, how it sounds, everything. I hate it. I refuse to tell you what good perks could be. Delete it.
+dimwishlist:item=-2807687156
+
+HONOR'S EDGE
+//notes:(PVE) This has nothing on falling G.
+dimwishlist:item=2857348871&perks=2590710093,3708227201
+
+TOIL AND TROUBLE
+//notes:Delete this.
+dimwishlist:item=-2957367743
+
+TIMELINES' VERTEX
+//notes:(PVP) This is fine. Great range, meh perks.
+dimwishlist:item=3055192515&perks=280464955,957782887
+dimwishlist:item=3055192515&perks=280464955,1600092898
+
+TARANTULA
+//notes:(PVP) I've heard this is nice
+dimwishlist:item=3335343363&perks=588594999,2551157718
+
+//notes:(PVE) This has to be nasty in season 15
+dimwishlist:item=3335343363&perks=2869569095,2551157718
+
+WISHBRINGER
+//notes:(PVP) The ONLY reason this isn't an instant delete is because of this exact roll
+dimwishlist:item=3356526253&perks=3161816588,47981717
+dimwishlist:item=3356526253&perks=3161816588,957782887
+
+NIGHT WATCH
+//notes:(PVE) I use this in GM's all the time. Please don't delete this.
+dimwishlist:item=3504336176&perks=247725512,3038247973
+dimwishlist:item=3504336176&perks=3643424744,3038247973
+
+//notes:(PVE) This is a beast
+dimwishlist:item=3504336176&perks=1168162263,3038247973
+dimwishlist:item=3504336176&perks=1820235745,3038247973
+dimwishlist:item=3504336176&perks=1820235745,3425386926
+dimwishlist:item=3504336176&perks=247725512,2458213969
+
+ETERNAL BLAZON
+//notes:(PVE) A fine arc scout.
+dimwishlist:item=3514096004&perks=247725512,1015611457
+dimwishlist:item=3514096004&perks=247725512,4049631843
+dimwishlist:item=3514096004&perks=3643424744,4049631843
+
+PLEIADES CORRECTOR
+//notes:(PVE) A meh solar scout.
+dimwishlist:item=3556999246&perks=1354429876,2458213969
+dimwishlist:item=3556999246&perks=1168162263,2458213969
+dimwishlist:item=3556999246&perks=1168162263,3523296417
+
+LONG SHADOW
+//notes:(PVE) If snipers ever go back to the DPS meta, this is your new #1.
+dimwishlist:item=3745990145&perks=247725512,3400784728
+
+OUTRAGEOUS FORTUNE
+//notes:(PVE) This is... fine
+dimwishlist:item=4146702548&perks=3301904089,3300816228,3096702027
+dimwishlist:item=4146702548&perks=3301904089,2869569095,3096702027
+
+STEEL SYBIL Z-14
+//notes:(PVE) This has decent perks, not better than falling g though.
+dimwishlist:item=4230993599&perks=1749209109,3913600130
+dimwishlist:item=4230993599&perks=2590710093,3913600130
+
+// Under Your Skin - under your tempo (pve)
+//notes: you wanna see real speed bitch, I'll show you real speed tags:pve
+dimwishlist:item=232928045&perks=201365942,617966211
+dimwishlist:item=232928045&perks=201365942,2652708987
+dimwishlist:item=232928045&perks=3523746922,617966211
+dimwishlist:item=232928045&perks=3523746922,2652708987
+
+
+// Under Your Skin - yum (pve)
+//notes: yum tags:pve
+dimwishlist:item=232928045&perks=201365942,2848615171
+dimwishlist:item=232928045&perks=201365942,169755979
+dimwishlist:item=232928045&perks=201365942,3365897133
+dimwishlist:item=232928045&perks=201365942,1551736345
+dimwishlist:item=232928045&perks=3523746922,2848615171
+dimwishlist:item=232928045&perks=3523746922,169755979
+dimwishlist:item=232928045&perks=3523746922,3365897133
+dimwishlist:item=232928045&perks=3523746922,1551736345
+
+
+// Under Your Skin - Accurate Skin (pvp)
+//notes: This combo has SO MUCH accuracy tags:pvp
+dimwishlist:item=232928045&perks=280464955,47981717
+dimwishlist:item=232928045&perks=280464955,1370847713
+dimwishlist:item=232928045&perks=3920370755,47981717
+dimwishlist:item=232928045&perks=3920370755,1370847713
+
+
+// Under Your Skin - Speed (PVP) (pvp)
+//notes: You wanna see real (PVP) speed? I'll show you real (PVP) speed tags:pvp
+dimwishlist:item=232928045&perks=2946784966,2652708987
+dimwishlist:item=232928045&perks=2946784966,617966211
+dimwishlist:item=232928045&perks=987673306,2652708987
+dimwishlist:item=232928045&perks=987673306,617966211
+
+
+// Pointed Inquiry - King of GMs (pve,god-pve)
+//notes: This will be your BEST friend in GMs against champs tags:pve,god-pve
+dimwishlist:item=297296830&perks=3096702027,3431277734
+dimwishlist:item=297296830&perks=3096702027,1048183818
+dimwishlist:item=297296830&perks=1658784563,3431277734
+dimwishlist:item=297296830&perks=1658784563,1048183818
+
+
+// Pointed Inquiry - Decent Slayer (pve)
+//notes: This combo should do well in most PvE content where scouts make sense tags:pve
+dimwishlist:item=297296830&perks=848860060,2896038713
+dimwishlist:item=297296830&perks=848860060,2402480669
+dimwishlist:item=297296830&perks=848860060,2000295559
+dimwishlist:item=297296830&perks=848860060,2209918983
+dimwishlist:item=297296830&perks=848860060,3523296417
+dimwishlist:item=297296830&perks=848860060,1906147653
+dimwishlist:item=297296830&perks=848860060,1048183818
+dimwishlist:item=297296830&perks=848860060,3431277734
+dimwishlist:item=297296830&perks=848860060,2848615171
+dimwishlist:item=297296830&perks=848860060,169755979
+dimwishlist:item=297296830&perks=1354429876,2896038713
+dimwishlist:item=297296830&perks=1354429876,2402480669
+dimwishlist:item=297296830&perks=1354429876,2000295559
+dimwishlist:item=297296830&perks=1354429876,2209918983
+dimwishlist:item=297296830&perks=1354429876,3523296417
+dimwishlist:item=297296830&perks=1354429876,1906147653
+dimwishlist:item=297296830&perks=1354429876,1048183818
+dimwishlist:item=297296830&perks=1354429876,3431277734
+dimwishlist:item=297296830&perks=1354429876,2848615171
+dimwishlist:item=297296830&perks=1354429876,169755979
+dimwishlist:item=297296830&perks=1658784563,2896038713
+dimwishlist:item=297296830&perks=1658784563,2402480669
+dimwishlist:item=297296830&perks=1658784563,2000295559
+dimwishlist:item=297296830&perks=1658784563,2209918983
+dimwishlist:item=297296830&perks=1658784563,3523296417
+dimwishlist:item=297296830&perks=1658784563,1906147653
+dimwishlist:item=297296830&perks=1658784563,1048183818
+dimwishlist:item=297296830&perks=1658784563,3431277734
+dimwishlist:item=297296830&perks=1658784563,2848615171
+dimwishlist:item=297296830&perks=1658784563,169755979
+dimwishlist:item=297296830&perks=3096702027,2896038713
+dimwishlist:item=297296830&perks=3096702027,2402480669
+dimwishlist:item=297296830&perks=3096702027,2000295559
+dimwishlist:item=297296830&perks=3096702027,2209918983
+dimwishlist:item=297296830&perks=3096702027,3523296417
+dimwishlist:item=297296830&perks=3096702027,1906147653
+dimwishlist:item=297296830&perks=3096702027,1048183818
+dimwishlist:item=297296830&perks=3096702027,3431277734
+dimwishlist:item=297296830&perks=3096702027,2848615171
+dimwishlist:item=297296830&perks=3096702027,169755979
+
+
+// Pointed Inquiry (pvp)
+//notes: tags:pvp
+dimwishlist:item=297296830&perks=280464955,2848615171
+dimwishlist:item=297296830&perks=280464955,169755979
+dimwishlist:item=297296830&perks=3920370755,2848615171
+dimwishlist:item=297296830&perks=3920370755,169755979
+
+
+// Cantata-57 - AWOOOOOOOOOOOOOOGA (pvp,god-pvp)
+//notes: AWOOOOOOOOOOOOOOGA tags:pvp,god-pvp
+dimwishlist:item=372697604&perks=3250034553,3142289711,699525795,1954620775
+dimwishlist:item=372697604&perks=3250034553,106909392,699525795,1954620775
+dimwishlist:item=372697604&perks=1482024992,3142289711,699525795,1954620775
+dimwishlist:item=372697604&perks=1482024992,106909392,699525795,1954620775
+
+
+// Cantata-57 - Amazing (pvp)
+//notes: Just amazing gun, lots of good perk combos to chase tags:pvp
+dimwishlist:item=372697604&perks=3250034553,3142289711,699525795,47981717
+dimwishlist:item=372697604&perks=3250034553,3142289711,699525795,1954620775
+dimwishlist:item=372697604&perks=3250034553,3142289711,699525795,2846385770
+dimwishlist:item=372697604&perks=3250034553,3142289711,699525795,588594999
+dimwishlist:item=372697604&perks=3250034553,3142289711,509074078,47981717
+dimwishlist:item=372697604&perks=3250034553,3142289711,509074078,1954620775
+dimwishlist:item=372697604&perks=3250034553,3142289711,509074078,2846385770
+dimwishlist:item=372697604&perks=3250034553,3142289711,509074078,588594999
+dimwishlist:item=372697604&perks=3250034553,3142289711,1570042021,47981717
+dimwishlist:item=372697604&perks=3250034553,3142289711,1570042021,1954620775
+dimwishlist:item=372697604&perks=3250034553,3142289711,1570042021,2846385770
+dimwishlist:item=372697604&perks=3250034553,3142289711,1570042021,588594999
+dimwishlist:item=372697604&perks=3250034553,106909392,699525795,47981717
+dimwishlist:item=372697604&perks=3250034553,106909392,699525795,1954620775
+dimwishlist:item=372697604&perks=3250034553,106909392,699525795,2846385770
+dimwishlist:item=372697604&perks=3250034553,106909392,699525795,588594999
+dimwishlist:item=372697604&perks=3250034553,106909392,509074078,47981717
+dimwishlist:item=372697604&perks=3250034553,106909392,509074078,1954620775
+dimwishlist:item=372697604&perks=3250034553,106909392,509074078,2846385770
+dimwishlist:item=372697604&perks=3250034553,106909392,509074078,588594999
+dimwishlist:item=372697604&perks=3250034553,106909392,1570042021,47981717
+dimwishlist:item=372697604&perks=3250034553,106909392,1570042021,1954620775
+dimwishlist:item=372697604&perks=3250034553,106909392,1570042021,2846385770
+dimwishlist:item=372697604&perks=3250034553,106909392,1570042021,588594999
+dimwishlist:item=372697604&perks=1482024992,3142289711,699525795,47981717
+dimwishlist:item=372697604&perks=1482024992,3142289711,699525795,1954620775
+dimwishlist:item=372697604&perks=1482024992,3142289711,699525795,2846385770
+dimwishlist:item=372697604&perks=1482024992,3142289711,699525795,588594999
+dimwishlist:item=372697604&perks=1482024992,3142289711,509074078,47981717
+dimwishlist:item=372697604&perks=1482024992,3142289711,509074078,1954620775
+dimwishlist:item=372697604&perks=1482024992,3142289711,509074078,2846385770
+dimwishlist:item=372697604&perks=1482024992,3142289711,509074078,588594999
+dimwishlist:item=372697604&perks=1482024992,3142289711,1570042021,47981717
+dimwishlist:item=372697604&perks=1482024992,3142289711,1570042021,1954620775
+dimwishlist:item=372697604&perks=1482024992,3142289711,1570042021,2846385770
+dimwishlist:item=372697604&perks=1482024992,3142289711,1570042021,588594999
+dimwishlist:item=372697604&perks=1482024992,106909392,699525795,47981717
+dimwishlist:item=372697604&perks=1482024992,106909392,699525795,1954620775
+dimwishlist:item=372697604&perks=1482024992,106909392,699525795,2846385770
+dimwishlist:item=372697604&perks=1482024992,106909392,699525795,588594999
+dimwishlist:item=372697604&perks=1482024992,106909392,509074078,47981717
+dimwishlist:item=372697604&perks=1482024992,106909392,509074078,1954620775
+dimwishlist:item=372697604&perks=1482024992,106909392,509074078,2846385770
+dimwishlist:item=372697604&perks=1482024992,106909392,509074078,588594999
+dimwishlist:item=372697604&perks=1482024992,106909392,1570042021,47981717
+dimwishlist:item=372697604&perks=1482024992,106909392,1570042021,1954620775
+dimwishlist:item=372697604&perks=1482024992,106909392,1570042021,2846385770
+dimwishlist:item=372697604&perks=1482024992,106909392,1570042021,588594999
+dimwishlist:item=372697604&perks=4090651448,3142289711,699525795,47981717
+dimwishlist:item=372697604&perks=4090651448,3142289711,699525795,1954620775
+dimwishlist:item=372697604&perks=4090651448,3142289711,699525795,2846385770
+dimwishlist:item=372697604&perks=4090651448,3142289711,699525795,588594999
+dimwishlist:item=372697604&perks=4090651448,3142289711,509074078,47981717
+dimwishlist:item=372697604&perks=4090651448,3142289711,509074078,1954620775
+dimwishlist:item=372697604&perks=4090651448,3142289711,509074078,2846385770
+dimwishlist:item=372697604&perks=4090651448,3142289711,509074078,588594999
+dimwishlist:item=372697604&perks=4090651448,3142289711,1570042021,47981717
+dimwishlist:item=372697604&perks=4090651448,3142289711,1570042021,1954620775
+dimwishlist:item=372697604&perks=4090651448,3142289711,1570042021,2846385770
+dimwishlist:item=372697604&perks=4090651448,3142289711,1570042021,588594999
+dimwishlist:item=372697604&perks=4090651448,106909392,699525795,47981717
+dimwishlist:item=372697604&perks=4090651448,106909392,699525795,1954620775
+dimwishlist:item=372697604&perks=4090651448,106909392,699525795,2846385770
+dimwishlist:item=372697604&perks=4090651448,106909392,699525795,588594999
+dimwishlist:item=372697604&perks=4090651448,106909392,509074078,47981717
+dimwishlist:item=372697604&perks=4090651448,106909392,509074078,1954620775
+dimwishlist:item=372697604&perks=4090651448,106909392,509074078,2846385770
+dimwishlist:item=372697604&perks=4090651448,106909392,509074078,588594999
+dimwishlist:item=372697604&perks=4090651448,106909392,1570042021,47981717
+dimwishlist:item=372697604&perks=4090651448,106909392,1570042021,1954620775
+dimwishlist:item=372697604&perks=4090651448,106909392,1570042021,2846385770
+dimwishlist:item=372697604&perks=4090651448,106909392,1570042021,588594999
+
+
+// Cantata-57 - Ok (pve)
+//notes: This should be good tags:pve
+dimwishlist:item=372697604&perks=247725512,1546637391
+dimwishlist:item=372697604&perks=247725512,1954620775
+
+
+// Duty Bound - God Bound (god-pve,pve)
+//notes: This gun will be great in end game content, especially against champs with some auto-rifle champ mods tags:god-pve,pve
+dimwishlist:item=435216110&perks=1482024992,106909392,3400784728,1546637391,744217850
+dimwishlist:item=435216110&perks=1482024992,106909392,3400784728,1546637391,1281216113
+
+
+// Duty Bound - Doody Bound (pvp)
+//notes: This gun will be "fine" with some of these perks. Never will it be a god gun for PvP. tags:pvp
+dimwishlist:item=435216110&perks=2387244414,3425386926,744217850
+dimwishlist:item=435216110&perks=2387244414,1359896290,744217850
+dimwishlist:item=435216110&perks=1428297954,3425386926,744217850
+dimwishlist:item=435216110&perks=1428297954,1359896290,744217850
+
+
+// Duty Bound - Good Bound (pve)
+//notes: This gun will perform well in PvE in a lot of content imo tags:pve
+dimwishlist:item=435216110&perks=3400784728,3425386926
+dimwishlist:item=435216110&perks=3400784728,1546637391
+dimwishlist:item=435216110&perks=3400784728,4104185692
+dimwishlist:item=435216110&perks=3400784728,1354429876
+dimwishlist:item=435216110&perks=2387244414,3425386926
+dimwishlist:item=435216110&perks=2387244414,1546637391
+dimwishlist:item=435216110&perks=2387244414,4104185692
+dimwishlist:item=435216110&perks=2387244414,1354429876
+
+
+// Come to Pass - Cum to pass (pve)
+//notes: This combo has some great synergy tags:pve
+dimwishlist:item=927567426&perks=1583705720,859780267
+dimwishlist:item=927567426&perks=1409206216,859780267
+
+
+// Come to Pass - Cummy To Passy (pve)
+//notes: This will demolish any shields in the game tags:pve
+dimwishlist:item=927567426&perks=1658784563,1048183818
+dimwishlist:item=927567426&perks=1658784563,3431277734
+
+
+// Perses-D - Perses-Deez Nuts (pve,god-pve)
+//notes: Yummy yummy tags:pve,god-pve
+dimwishlist:item=1019000888&perks=247725512,1546637391
+
+
+// Perses-D - Perses-E (pve)
+//notes: This should be fun, it hits hard! tags:pve
+dimwishlist:item=1019000888&perks=247725512,124408337
+dimwishlist:item=1019000888&perks=247725512,3038247973
+dimwishlist:item=1019000888&perks=247725512,1546637391
+
+
+// Perses-D - Perses-P (pvp)
+//notes: This combo could be interesting if you enjoy scouts in PvP tags:pvp
+dimwishlist:item=1019000888&perks=247725512,3038247973
+
+
+// Frontier's Cry (pvp)
+//notes: It's ok for a 180, you should just use a 140 though probably tags:pvp
+dimwishlist:item=1141547457&perks=247725512,591790007
+dimwishlist:item=1141547457&perks=247725512,1015611457
+dimwishlist:item=1141547457&perks=247725512,699525795
+dimwishlist:item=1141547457&perks=2946784966,591790007
+dimwishlist:item=1141547457&perks=2946784966,1015611457
+dimwishlist:item=1141547457&perks=2946784966,699525795
+
+
+// Sweet Sorrow - Sweet Tank (pve)
+//notes: This combo will turn you into a walking talking tank tags:pve
+dimwishlist:item=1248372789&perks=972757866,2209918983,1536798515
+dimwishlist:item=1248372789&perks=972757866,2000295559,1536798515
+dimwishlist:item=1248372789&perks=1685378950,2209918983,1536798515
+dimwishlist:item=1248372789&perks=1685378950,2000295559,1536798515
+
+
+// Sweet Sorrow - major melt (pve)
+//notes: major melt reporting for duty tags:pve
+dimwishlist:item=1248372789&perks=3400784728,3418165135
+dimwishlist:item=1248372789&perks=3400784728,1546637391
+dimwishlist:item=1248372789&perks=3400784728,2896038713
+dimwishlist:item=1248372789&perks=3400784728,2402480669
+dimwishlist:item=1248372789&perks=573122728,3418165135
+dimwishlist:item=1248372789&perks=573122728,1546637391
+dimwishlist:item=1248372789&perks=573122728,2896038713
+dimwishlist:item=1248372789&perks=573122728,2402480669
+
+
+// Sweet Sorrow - PvP Sorrow (pvp)
+//notes: This thing is nasty tags:pvp
+dimwishlist:item=1248372789&perks=2450788523,1523649716
+dimwishlist:item=1248372789&perks=2450788523,1890422124
+dimwishlist:item=1248372789&perks=4207509907,1523649716
+dimwishlist:item=1248372789&perks=4207509907,1890422124
+
+
+// Fel Taradiddle - Taradiddle deez nuts (god-pve,pve)
+//notes: This is the classic "good" bow combo. tags:god-pve,pve
+dimwishlist:item=1399109800&perks=3523746922,3365897133
+dimwishlist:item=1399109800&perks=3523746922,1551736345
+dimwishlist:item=1399109800&perks=201365942,3365897133
+dimwishlist:item=1399109800&perks=201365942,1551736345
+
+
+// Fel Taradiddle - SPED (pve)
+//notes: YOU WANNA SEE REAL SPEED BITCH tags:pve
+dimwishlist:item=1399109800&perks=3523746922,2652708987
+dimwishlist:item=1399109800&perks=3523746922,617966211
+dimwishlist:item=1399109800&perks=201365942,2652708987
+dimwishlist:item=1399109800&perks=201365942,617966211
+
+
+// Forensic Nightmare - Shlappy???? (pvp)
+//notes: This can probably compete with some of the heavy hitters tags:pvp
+dimwishlist:item=1526296434&perks=3250034553,1561002382,1428297954,2923251173
+dimwishlist:item=1526296434&perks=3250034553,1561002382,1428297954,1015611457
+dimwishlist:item=1526296434&perks=3250034553,1561002382,2014892510,2923251173
+dimwishlist:item=1526296434&perks=3250034553,1561002382,2014892510,1015611457
+dimwishlist:item=1526296434&perks=3250034553,1885400500,1428297954,2923251173
+dimwishlist:item=1526296434&perks=3250034553,1885400500,1428297954,1015611457
+dimwishlist:item=1526296434&perks=3250034553,1885400500,2014892510,2923251173
+dimwishlist:item=1526296434&perks=3250034553,1885400500,2014892510,1015611457
+dimwishlist:item=1526296434&perks=202670084,1561002382,1428297954,2923251173
+dimwishlist:item=1526296434&perks=202670084,1561002382,1428297954,1015611457
+dimwishlist:item=1526296434&perks=202670084,1561002382,2014892510,2923251173
+dimwishlist:item=1526296434&perks=202670084,1561002382,2014892510,1015611457
+dimwishlist:item=1526296434&perks=202670084,1885400500,1428297954,2923251173
+dimwishlist:item=1526296434&perks=202670084,1885400500,1428297954,1015611457
+dimwishlist:item=1526296434&perks=202670084,1885400500,2014892510,2923251173
+dimwishlist:item=1526296434&perks=202670084,1885400500,2014892510,1015611457
+
+
+// Forensic Nightmare - PVEEEEEEEEEEEE Nightmare (pve)
+//notes: This gun grows on you, give it a try tags:pve
+dimwishlist:item=1526296434&perks=1631667848,4082225868
+dimwishlist:item=1526296434&perks=1631667848,1161469972
+dimwishlist:item=1526296434&perks=1631667848,1171887445
+dimwishlist:item=1526296434&perks=402033656,4082225868
+dimwishlist:item=1526296434&perks=402033656,1161469972
+dimwishlist:item=1526296434&perks=402033656,1171887445
+
+
+// Recurrent Impact (pve)
+//notes: tags:pve
+dimwishlist:item=1572896086&perks=1820235745,1771339417
+dimwishlist:item=1572896086&perks=1820235745,395388285
+dimwishlist:item=1572896086&perks=1820235745,859780267
+dimwishlist:item=1572896086&perks=1820235745,4049631843
+dimwishlist:item=1572896086&perks=4245865861,1771339417
+dimwishlist:item=1572896086&perks=4245865861,395388285
+dimwishlist:item=1572896086&perks=4245865861,859780267
+dimwishlist:item=1572896086&perks=4245865861,4049631843
+
+
+// Recurrent Impact (pvp)
+//notes: tags:pvp
+dimwishlist:item=1572896086&perks=280464955,1890422124
+dimwishlist:item=1572896086&perks=280464955,1523649716
+dimwishlist:item=1572896086&perks=3920370755,1890422124
+dimwishlist:item=1572896086&perks=3920370755,1523649716
+dimwishlist:item=1572896086&perks=2014892510,1890422124
+dimwishlist:item=1572896086&perks=2014892510,1523649716
+dimwishlist:item=1572896086&perks=1428297954,1890422124
+dimwishlist:item=1572896086&perks=1428297954,1523649716
+
+
+// Redback-5si (pve)
+//notes: tags:pve
+dimwishlist:item=1687353095&perks=1820235745,4049631843
+
+
+// Redback-5si (pve)
+//notes: tags:pve
+dimwishlist:item=1687353095&perks=1820235745,3425386926
+
+
+// Redback-5si (pvp)
+//notes: tags:pvp
+dimwishlist:item=1687353095&perks=1428297954,47981717
+dimwishlist:item=1687353095&perks=2450788523,47981717
+
+
+// Herod-C - PVP-C (god-pvp,pvp)
+//notes: This is SPICY tags:god-pvp,pvp
+dimwishlist:item=1788603939&perks=1885400500,1570042021,1890422124
+dimwishlist:item=1788603939&perks=1561002382,1570042021,1890422124
+
+
+// Herod-C - Focused Fury Dependent (pve)
+//notes: These combos are good IF focused fury ends up being a good perk imo tags:pve
+dimwishlist:item=1788603939&perks=1354429876,2896038713
+dimwishlist:item=1788603939&perks=1820235745,2896038713
+
+
+// Herod-C - PVE-C (pve)
+//notes: This is a decent combo that should synergize well. tags:pve
+dimwishlist:item=1788603939&perks=1820235745,124408337
+dimwishlist:item=1788603939&perks=1820235745,4049631843
+dimwishlist:item=1788603939&perks=1820235745,2458213969
+dimwishlist:item=1788603939&perks=1820235745,4104185692
+dimwishlist:item=1788603939&perks=1570042021,124408337
+dimwishlist:item=1788603939&perks=1570042021,4049631843
+dimwishlist:item=1788603939&perks=1570042021,2458213969
+dimwishlist:item=1788603939&perks=1570042021,4104185692
+
+
+// Herod-C - PVP-C (pvp)
+//notes: This can be a decent combo, and this gun has some nice base range already tags:pvp
+dimwishlist:item=1788603939&perks=1570042021,1890422124
+dimwishlist:item=1788603939&perks=1570042021,588594999
+dimwishlist:item=1788603939&perks=1359896290,1890422124
+dimwishlist:item=1788603939&perks=1359896290,588594999
+
+
+// Razor's Edge (pve)
+//notes: spin to win tags:pve
+dimwishlist:item=1796949035&perks=3108830275,2396489472
+dimwishlist:item=1796949035&perks=3108830275,4049631843
+dimwishlist:item=1796949035&perks=2590710093,2396489472
+dimwishlist:item=1796949035&perks=2590710093,4049631843
+
+
+// Likely Suspect - Rapid DEATH (god-pvp,pvp)
+//notes: SLAP EM WITH IT tags:god-pvp,pvp
+dimwishlist:item=1994645182&perks=4090651448,689005463,3920370755,617966211
+dimwishlist:item=1994645182&perks=4090651448,689005463,3920370755,2610012052
+dimwishlist:item=1994645182&perks=4090651448,689005463,3920370755,4290541820
+dimwishlist:item=1994645182&perks=4090651448,689005463,280464955,617966211
+dimwishlist:item=1994645182&perks=4090651448,689005463,280464955,2610012052
+dimwishlist:item=1994645182&perks=4090651448,689005463,280464955,4290541820
+dimwishlist:item=1994645182&perks=3250034553,689005463,3920370755,617966211
+dimwishlist:item=1994645182&perks=3250034553,689005463,3920370755,2610012052
+dimwishlist:item=1994645182&perks=3250034553,689005463,3920370755,4290541820
+dimwishlist:item=1994645182&perks=3250034553,689005463,280464955,617966211
+dimwishlist:item=1994645182&perks=3250034553,689005463,280464955,2610012052
+dimwishlist:item=1994645182&perks=3250034553,689005463,280464955,4290541820
+
+
+// Likely Suspect - Fusion Meta (again) (pve)
+//notes: This fusion just feels GOOD to kill with, this roll should suit your needs in most cases tags:pve
+dimwishlist:item=1994645182&perks=1687452232,2396422520,617966211
+dimwishlist:item=1994645182&perks=1687452232,2396422520,2652708987
+dimwishlist:item=1994645182&perks=1687452232,2396422520,2675361166
+dimwishlist:item=1994645182&perks=1687452232,2396422520,3592538738
+dimwishlist:item=1994645182&perks=1687452232,2396422520,2000295559
+dimwishlist:item=1994645182&perks=1687452232,2396422520,2209918983
+dimwishlist:item=1994645182&perks=1687452232,2396422520,2610012052
+dimwishlist:item=1994645182&perks=1687452232,2396422520,4290541820
+dimwishlist:item=1994645182&perks=1687452232,2396422520,3673922083
+dimwishlist:item=1994645182&perks=1687452232,2396422520,2889515627
+dimwishlist:item=1994645182&perks=1687452232,2039302152,617966211
+dimwishlist:item=1994645182&perks=1687452232,2039302152,2652708987
+dimwishlist:item=1994645182&perks=1687452232,2039302152,2675361166
+dimwishlist:item=1994645182&perks=1687452232,2039302152,3592538738
+dimwishlist:item=1994645182&perks=1687452232,2039302152,2000295559
+dimwishlist:item=1994645182&perks=1687452232,2039302152,2209918983
+dimwishlist:item=1994645182&perks=1687452232,2039302152,2610012052
+dimwishlist:item=1994645182&perks=1687452232,2039302152,4290541820
+dimwishlist:item=1994645182&perks=1687452232,2039302152,3673922083
+dimwishlist:item=1994645182&perks=1687452232,2039302152,2889515627
+dimwishlist:item=1994645182&perks=1687452232,280464955,617966211
+dimwishlist:item=1994645182&perks=1687452232,280464955,2652708987
+dimwishlist:item=1994645182&perks=1687452232,280464955,2675361166
+dimwishlist:item=1994645182&perks=1687452232,280464955,3592538738
+dimwishlist:item=1994645182&perks=1687452232,280464955,2000295559
+dimwishlist:item=1994645182&perks=1687452232,280464955,2209918983
+dimwishlist:item=1994645182&perks=1687452232,280464955,2610012052
+dimwishlist:item=1994645182&perks=1687452232,280464955,4290541820
+dimwishlist:item=1994645182&perks=1687452232,280464955,3673922083
+dimwishlist:item=1994645182&perks=1687452232,280464955,2889515627
+dimwishlist:item=1994645182&perks=1687452232,3920370755,617966211
+dimwishlist:item=1994645182&perks=1687452232,3920370755,2652708987
+dimwishlist:item=1994645182&perks=1687452232,3920370755,2675361166
+dimwishlist:item=1994645182&perks=1687452232,3920370755,3592538738
+dimwishlist:item=1994645182&perks=1687452232,3920370755,2000295559
+dimwishlist:item=1994645182&perks=1687452232,3920370755,2209918983
+dimwishlist:item=1994645182&perks=1687452232,3920370755,2610012052
+dimwishlist:item=1994645182&perks=1687452232,3920370755,4290541820
+dimwishlist:item=1994645182&perks=1687452232,3920370755,3673922083
+dimwishlist:item=1994645182&perks=1687452232,3920370755,2889515627
+dimwishlist:item=1994645182&perks=2680121939,2396422520,617966211
+dimwishlist:item=1994645182&perks=2680121939,2396422520,2652708987
+dimwishlist:item=1994645182&perks=2680121939,2396422520,2675361166
+dimwishlist:item=1994645182&perks=2680121939,2396422520,3592538738
+dimwishlist:item=1994645182&perks=2680121939,2396422520,2000295559
+dimwishlist:item=1994645182&perks=2680121939,2396422520,2209918983
+dimwishlist:item=1994645182&perks=2680121939,2396422520,2610012052
+dimwishlist:item=1994645182&perks=2680121939,2396422520,4290541820
+dimwishlist:item=1994645182&perks=2680121939,2396422520,3673922083
+dimwishlist:item=1994645182&perks=2680121939,2396422520,2889515627
+dimwishlist:item=1994645182&perks=2680121939,2039302152,617966211
+dimwishlist:item=1994645182&perks=2680121939,2039302152,2652708987
+dimwishlist:item=1994645182&perks=2680121939,2039302152,2675361166
+dimwishlist:item=1994645182&perks=2680121939,2039302152,3592538738
+dimwishlist:item=1994645182&perks=2680121939,2039302152,2000295559
+dimwishlist:item=1994645182&perks=2680121939,2039302152,2209918983
+dimwishlist:item=1994645182&perks=2680121939,2039302152,2610012052
+dimwishlist:item=1994645182&perks=2680121939,2039302152,4290541820
+dimwishlist:item=1994645182&perks=2680121939,2039302152,3673922083
+dimwishlist:item=1994645182&perks=2680121939,2039302152,2889515627
+dimwishlist:item=1994645182&perks=2680121939,280464955,617966211
+dimwishlist:item=1994645182&perks=2680121939,280464955,2652708987
+dimwishlist:item=1994645182&perks=2680121939,280464955,2675361166
+dimwishlist:item=1994645182&perks=2680121939,280464955,3592538738
+dimwishlist:item=1994645182&perks=2680121939,280464955,2000295559
+dimwishlist:item=1994645182&perks=2680121939,280464955,2209918983
+dimwishlist:item=1994645182&perks=2680121939,280464955,2610012052
+dimwishlist:item=1994645182&perks=2680121939,280464955,4290541820
+dimwishlist:item=1994645182&perks=2680121939,280464955,3673922083
+dimwishlist:item=1994645182&perks=2680121939,280464955,2889515627
+dimwishlist:item=1994645182&perks=2680121939,3920370755,617966211
+dimwishlist:item=1994645182&perks=2680121939,3920370755,2652708987
+dimwishlist:item=1994645182&perks=2680121939,3920370755,2675361166
+dimwishlist:item=1994645182&perks=2680121939,3920370755,3592538738
+dimwishlist:item=1994645182&perks=2680121939,3920370755,2000295559
+dimwishlist:item=1994645182&perks=2680121939,3920370755,2209918983
+dimwishlist:item=1994645182&perks=2680121939,3920370755,2610012052
+dimwishlist:item=1994645182&perks=2680121939,3920370755,4290541820
+dimwishlist:item=1994645182&perks=2680121939,3920370755,3673922083
+dimwishlist:item=1994645182&perks=2680121939,3920370755,2889515627
+
+
+// Likely Suspect - Nearly best in class (pvp)
+//notes: Use this and slap all your enemies, slap them real good tags:pvp
+dimwishlist:item=1994645182&perks=689005463,280464955,2610012052
+dimwishlist:item=1994645182&perks=689005463,280464955,4290541820
+dimwishlist:item=1994645182&perks=689005463,280464955,617966211
+dimwishlist:item=1994645182&perks=689005463,3920370755,2610012052
+dimwishlist:item=1994645182&perks=689005463,3920370755,4290541820
+dimwishlist:item=1994645182&perks=689005463,3920370755,617966211
+dimwishlist:item=1994645182&perks=689005463,2039302152,2610012052
+dimwishlist:item=1994645182&perks=689005463,2039302152,4290541820
+dimwishlist:item=1994645182&perks=689005463,2039302152,617966211
+dimwishlist:item=1994645182&perks=689005463,2396422520,2610012052
+dimwishlist:item=1994645182&perks=689005463,2396422520,4290541820
+dimwishlist:item=1994645182&perks=689005463,2396422520,617966211
+dimwishlist:item=1994645182&perks=2969185026,280464955,2610012052
+dimwishlist:item=1994645182&perks=2969185026,280464955,4290541820
+dimwishlist:item=1994645182&perks=2969185026,280464955,617966211
+dimwishlist:item=1994645182&perks=2969185026,3920370755,2610012052
+dimwishlist:item=1994645182&perks=2969185026,3920370755,4290541820
+dimwishlist:item=1994645182&perks=2969185026,3920370755,617966211
+dimwishlist:item=1994645182&perks=2969185026,2039302152,2610012052
+dimwishlist:item=1994645182&perks=2969185026,2039302152,4290541820
+dimwishlist:item=1994645182&perks=2969185026,2039302152,617966211
+dimwishlist:item=1994645182&perks=2969185026,2396422520,2610012052
+dimwishlist:item=1994645182&perks=2969185026,2396422520,4290541820
+dimwishlist:item=1994645182&perks=2969185026,2396422520,617966211
+dimwishlist:item=1994645182&perks=3868766766,280464955,2610012052
+dimwishlist:item=1994645182&perks=3868766766,280464955,4290541820
+dimwishlist:item=1994645182&perks=3868766766,280464955,617966211
+dimwishlist:item=1994645182&perks=3868766766,3920370755,2610012052
+dimwishlist:item=1994645182&perks=3868766766,3920370755,4290541820
+dimwishlist:item=1994645182&perks=3868766766,3920370755,617966211
+dimwishlist:item=1994645182&perks=3868766766,2039302152,2610012052
+dimwishlist:item=1994645182&perks=3868766766,2039302152,4290541820
+dimwishlist:item=1994645182&perks=3868766766,2039302152,617966211
+dimwishlist:item=1994645182&perks=3868766766,2396422520,2610012052
+dimwishlist:item=1994645182&perks=3868766766,2396422520,4290541820
+dimwishlist:item=1994645182&perks=3868766766,2396422520,617966211
+
+
+// Likely Suspect - Aztecross PvE Suggestion (pve)
+//notes: Daddy cross says this is good, I believe him tags:pve
+dimwishlist:item=1994645182&perks=2039302152,3673922083
+dimwishlist:item=1994645182&perks=2039302152,2889515627
+dimwishlist:item=1994645182&perks=2039302152,4049631843
+dimwishlist:item=1994645182&perks=2039302152,859780267
+dimwishlist:item=1994645182&perks=2039302152,617966211
+dimwishlist:item=1994645182&perks=2396422520,3673922083
+dimwishlist:item=1994645182&perks=2396422520,2889515627
+dimwishlist:item=1994645182&perks=2396422520,4049631843
+dimwishlist:item=1994645182&perks=2396422520,859780267
+dimwishlist:item=1994645182&perks=2396422520,617966211
+
+
+// Likely Suspect - Aztecross PvP Suggestion (pvp)
+//notes: Daddy says to try this, so listen to daddy tags:pvp
+dimwishlist:item=1994645182&perks=2039302152,3673922083
+dimwishlist:item=1994645182&perks=2039302152,2889515627
+dimwishlist:item=1994645182&perks=2396422520,3673922083
+dimwishlist:item=1994645182&perks=2396422520,2889515627
+dimwishlist:item=1994645182&perks=280464955,3673922083
+dimwishlist:item=1994645182&perks=280464955,2889515627
+dimwishlist:item=1994645182&perks=3920370755,3673922083
+dimwishlist:item=1994645182&perks=3920370755,2889515627
+
+
+// Piece of Mind - Piece of PvP (pvp)
+//notes: This combo should do well together. Make sure this one synergizes well!  tags:pvp
+dimwishlist:item=2097055732&perks=1428297954,588594999
+dimwishlist:item=2097055732&perks=1428297954,2717805783
+dimwishlist:item=2097055732&perks=1428297954,3511092054
+dimwishlist:item=2097055732&perks=1428297954,711234314
+dimwishlist:item=2097055732&perks=2014892510,588594999
+dimwishlist:item=2097055732&perks=2014892510,2717805783
+dimwishlist:item=2097055732&perks=2014892510,3511092054
+dimwishlist:item=2097055732&perks=2014892510,711234314
+dimwishlist:item=2097055732&perks=2748258257,588594999
+dimwishlist:item=2097055732&perks=2748258257,2717805783
+dimwishlist:item=2097055732&perks=2748258257,3511092054
+dimwishlist:item=2097055732&perks=2748258257,711234314
+dimwishlist:item=2097055732&perks=1570042021,588594999
+dimwishlist:item=2097055732&perks=1570042021,2717805783
+dimwishlist:item=2097055732&perks=1570042021,3511092054
+dimwishlist:item=2097055732&perks=1570042021,711234314
+
+
+// Piece of Mind - Piece of PvE (pve)
+//notes: This combo is a classic good combo tags:pve
+dimwishlist:item=2097055732&perks=3643424744,1546637391
+dimwishlist:item=2097055732&perks=3643424744,3418165135
+dimwishlist:item=2097055732&perks=2682205016,1546637391
+dimwishlist:item=2097055732&perks=2682205016,3418165135
+
+
+// Piece of Mind - Piece of PvE (Niche) (pve)
+//notes: Killing with another gun, swapping to this and emptying the mag, swapping back and letting autoloading do the work, GREAT combo albeit a bit niche tags:pve
+dimwishlist:item=2097055732&perks=3300816228,438098033
+dimwishlist:item=2097055732&perks=3300816228,2748801589
+dimwishlist:item=2097055732&perks=3528046508,438098033
+dimwishlist:item=2097055732&perks=3528046508,2748801589
+
+
+// Fugue-55 (pve,god-pve)
+//notes: tags:pve,god-pve
+dimwishlist:item=2233545123&perks=1354429876,1771339417
+
+
+// Fugue-55 (pvp)
+//notes: tags:pvp
+dimwishlist:item=2233545123&perks=2866798147,957782887
+dimwishlist:item=2233545123&perks=2866798147,588594999
+
+
+// Fugue-55 (pve)
+//notes: tags:pve
+dimwishlist:item=2233545123&perks=3300816228,1546637391
+
+
+// Fugue-55 (pve)
+//notes: tags:pve
+dimwishlist:item=2233545123&perks=671806388,1546637391
+dimwishlist:item=2233545123&perks=671806388,1771339417
+dimwishlist:item=2233545123&perks=671806388,2551157718
+
+
+// Ogma PR6 - Coolguy special (god-pve,pve)
+//notes: Coolguy says this combo makes this one of the best guns in the entire game. Give it a try (https://www.youtube.com/watch?v=FEMpIlMOTzE) "each kill is almost 20% of your grenade back" tags:god-pve,pve
+dimwishlist:item=2342054803&perks=3523296417,3592538738
+
+
+// Ogma PR6 (pve)
+//notes: tags:pve
+dimwishlist:item=2342054803&perks=1583705720,4049631843
+
+
+// Ogma PR6 (pve)
+//notes: tags:pve
+dimwishlist:item=2342054803&perks=3523296417,11612903
+
+
+// Ogma PR6 (pve)
+//notes: tags:pve
+dimwishlist:item=2342054803&perks=1048183818,1683379515
+
+
+// Ogma PR6 (pve)
+//notes: tags:pve
+dimwishlist:item=2342054803&perks=1048183818,2209918983
+
+
+// Ogma PR6 (pve)
+//notes: tags:pve
+dimwishlist:item=2342054803&perks=3523296417,2848615171
+
+
+// The Enigma - AWOOOOOGA (pve,god-pve)
+//notes: I can't stop using this tags:pve,god-pve
+dimwishlist:item=2595497736&perks=951095735,4104185692
+dimwishlist:item=2595497736&perks=951095735,3425386926
+dimwishlist:item=2595497736&perks=3878366039,4104185692
+dimwishlist:item=2595497736&perks=3878366039,3425386926
+
+
+// The Enigma - Bungie bug bounty (pve)
+//notes: If Bungie fixes this so that melee procs grave robber, this will be good tags:pve
+dimwishlist:item=2595497736&perks=1631667848,3007133316
+dimwishlist:item=2595497736&perks=1631667848,4104185692
+dimwishlist:item=2595497736&perks=1631667848,2224838837
+dimwishlist:item=2595497736&perks=1631667848,3102670337
+dimwishlist:item=2595497736&perks=1631667848,3425386926
+dimwishlist:item=2595497736&perks=1631667848,288411554
+dimwishlist:item=2595497736&perks=402033656,3007133316
+dimwishlist:item=2595497736&perks=402033656,4104185692
+dimwishlist:item=2595497736&perks=402033656,2224838837
+dimwishlist:item=2595497736&perks=402033656,3102670337
+dimwishlist:item=2595497736&perks=402033656,3425386926
+dimwishlist:item=2595497736&perks=402033656,288411554
+
+
+// Empirical Evidence - Aztecross Evidence (pvp)
+//notes: idk, daddy cross says this is good tags:pvp
+dimwishlist:item=2607304614&perks=2946784966,2748801589
+dimwishlist:item=2607304614&perks=2946784966,438098033
+dimwishlist:item=2607304614&perks=987673306,2748801589
+dimwishlist:item=2607304614&perks=987673306,438098033
+dimwishlist:item=2607304614&perks=2014892510,2748801589
+dimwishlist:item=2607304614&perks=2014892510,438098033
+dimwishlist:item=2607304614&perks=1428297954,2748801589
+dimwishlist:item=2607304614&perks=1428297954,438098033
+
+
+// Empirical Evidence - Empirically bad (pve)
+//notes: I dislike this entire gun, but daddy cross says this roll could be ok tags:pve
+dimwishlist:item=2607304614&perks=1685378950,3592538738
+dimwishlist:item=2607304614&perks=1685378950,2675361166
+dimwishlist:item=2607304614&perks=972757866,3592538738
+dimwishlist:item=2607304614&perks=972757866,2675361166
+
+
+// Aisha's Embrace (pvp)
+//notes: tags:pvp
+dimwishlist:item=2638190703&perks=1428297954,699525795
+dimwishlist:item=2638190703&perks=1428297954,3673922083
+
+
+// Aisha's Embrace (pvp)
+//notes: tags:pvp
+dimwishlist:item=2638190703&perks=2946784966,2458213969
+
+
+// Aisha's Embrace (pve)
+//notes: tags:pve
+dimwishlist:item=2638190703&perks=3400784728,1546637391
+
+
+// Tarnation (pve)
+//notes: Use enhanced perks where you can tags:pve
+dimwishlist:item=2721157927&perks=972757866,2396489472
+dimwishlist:item=2721157927&perks=972757866,598607952
+dimwishlist:item=2721157927&perks=972757866,960810156
+dimwishlist:item=2721157927&perks=972757866,1077019636
+dimwishlist:item=2721157927&perks=1685378950,2396489472
+dimwishlist:item=2721157927&perks=1685378950,598607952
+dimwishlist:item=2721157927&perks=1685378950,960810156
+dimwishlist:item=2721157927&perks=1685378950,1077019636
+dimwishlist:item=2721157927&perks=2869569095,2396489472
+dimwishlist:item=2721157927&perks=2869569095,598607952
+dimwishlist:item=2721157927&perks=2869569095,960810156
+dimwishlist:item=2721157927&perks=2869569095,1077019636
+dimwishlist:item=2721157927&perks=2308090567,2396489472
+dimwishlist:item=2721157927&perks=2308090567,598607952
+dimwishlist:item=2721157927&perks=2308090567,960810156
+dimwishlist:item=2721157927&perks=2308090567,1077019636
+dimwishlist:item=2721157927&perks=2284787283,2396489472
+dimwishlist:item=2721157927&perks=2284787283,598607952
+dimwishlist:item=2721157927&perks=2284787283,960810156
+dimwishlist:item=2721157927&perks=2284787283,1077019636
+dimwishlist:item=2721157927&perks=3563868667,2396489472
+dimwishlist:item=2721157927&perks=3563868667,598607952
+dimwishlist:item=2721157927&perks=3563868667,960810156
+dimwishlist:item=2721157927&perks=3563868667,1077019636
+
+
+// Fortissimo-11 - Aztecross Special (pvp,god-pvp)
+//notes: Daddy himself wants this role, consider yourself lucky (also Wurl selected these first two columns) tags:pvp,god-pvp
+dimwishlist:item=2821430069&perks=1840239774,791862061,509074078,47981717,744217850
+dimwishlist:item=2821430069&perks=1840239774,791862061,1428297954,47981717,744217850
+dimwishlist:item=2821430069&perks=1840239774,3142289711,509074078,47981717,744217850
+dimwishlist:item=2821430069&perks=1840239774,3142289711,1428297954,47981717,744217850
+dimwishlist:item=2821430069&perks=3250034553,791862061,509074078,47981717,744217850
+dimwishlist:item=2821430069&perks=3250034553,791862061,1428297954,47981717,744217850
+dimwishlist:item=2821430069&perks=3250034553,3142289711,509074078,47981717,744217850
+dimwishlist:item=2821430069&perks=3250034553,3142289711,1428297954,47981717,744217850
+
+
+// Fortissimo-11 - Fortissidick (pve,god-pve)
+//notes: This is the boss melting special tags:pve,god-pve
+dimwishlist:item=2821430069&perks=791862061,1354429876,1546637391
+
+
+// Fortissimo-11 - Fortiss Deez Nuts (pvp)
+//notes: This will be a nice gun to have in PvP if you enjoy slugs tags:pvp
+dimwishlist:item=2821430069&perks=1840239774,791862061,4071163871,47981717
+dimwishlist:item=2821430069&perks=1840239774,791862061,4071163871,588594999
+dimwishlist:item=2821430069&perks=1840239774,791862061,4071163871,3511092054
+dimwishlist:item=2821430069&perks=1840239774,791862061,509074078,47981717
+dimwishlist:item=2821430069&perks=1840239774,791862061,509074078,588594999
+dimwishlist:item=2821430069&perks=1840239774,791862061,509074078,3511092054
+dimwishlist:item=2821430069&perks=1840239774,791862061,1428297954,47981717
+dimwishlist:item=2821430069&perks=1840239774,791862061,1428297954,588594999
+dimwishlist:item=2821430069&perks=1840239774,791862061,1428297954,3511092054
+dimwishlist:item=2821430069&perks=1840239774,3142289711,4071163871,47981717
+dimwishlist:item=2821430069&perks=1840239774,3142289711,4071163871,588594999
+dimwishlist:item=2821430069&perks=1840239774,3142289711,4071163871,3511092054
+dimwishlist:item=2821430069&perks=1840239774,3142289711,509074078,47981717
+dimwishlist:item=2821430069&perks=1840239774,3142289711,509074078,588594999
+dimwishlist:item=2821430069&perks=1840239774,3142289711,509074078,3511092054
+dimwishlist:item=2821430069&perks=1840239774,3142289711,1428297954,47981717
+dimwishlist:item=2821430069&perks=1840239774,3142289711,1428297954,588594999
+dimwishlist:item=2821430069&perks=1840239774,3142289711,1428297954,3511092054
+dimwishlist:item=2821430069&perks=3250034553,791862061,4071163871,47981717
+dimwishlist:item=2821430069&perks=3250034553,791862061,4071163871,588594999
+dimwishlist:item=2821430069&perks=3250034553,791862061,4071163871,3511092054
+dimwishlist:item=2821430069&perks=3250034553,791862061,509074078,47981717
+dimwishlist:item=2821430069&perks=3250034553,791862061,509074078,588594999
+dimwishlist:item=2821430069&perks=3250034553,791862061,509074078,3511092054
+dimwishlist:item=2821430069&perks=3250034553,791862061,1428297954,47981717
+dimwishlist:item=2821430069&perks=3250034553,791862061,1428297954,588594999
+dimwishlist:item=2821430069&perks=3250034553,791862061,1428297954,3511092054
+dimwishlist:item=2821430069&perks=3250034553,3142289711,4071163871,47981717
+dimwishlist:item=2821430069&perks=3250034553,3142289711,4071163871,588594999
+dimwishlist:item=2821430069&perks=3250034553,3142289711,4071163871,3511092054
+dimwishlist:item=2821430069&perks=3250034553,3142289711,509074078,47981717
+dimwishlist:item=2821430069&perks=3250034553,3142289711,509074078,588594999
+dimwishlist:item=2821430069&perks=3250034553,3142289711,509074078,3511092054
+dimwishlist:item=2821430069&perks=3250034553,3142289711,1428297954,47981717
+dimwishlist:item=2821430069&perks=3250034553,3142289711,1428297954,588594999
+dimwishlist:item=2821430069&perks=3250034553,3142289711,1428297954,3511092054
+
+
+// Fortissimo-11 - Ok (pve)
+//notes: Decent PvE roll tags:pve
+dimwishlist:item=2821430069&perks=1354429876,1546637391
+dimwishlist:item=2821430069&perks=1354429876,4104185692
+dimwishlist:item=2821430069&perks=1354429876,2896038713
+dimwishlist:item=2821430069&perks=1354429876,3673922083
+
+
+// Krait - KRAIT ME DADDY (god-pvp,pvp)
+//notes: This combo should be NICE tags:god-pvp,pvp
+dimwishlist:item=2852052802&perks=1561002382,509074078,588594999
+dimwishlist:item=2852052802&perks=1885400500,509074078,588594999
+
+
+// Krait - Foundry Perk Combo (pve)
+//notes: This combo can work really well with the foundry perk tags:pve
+dimwishlist:item=2852052802&perks=1820235745,3673922083,3988215619
+dimwishlist:item=2852052802&perks=1820235745,2896038713,3988215619
+dimwishlist:item=2852052802&perks=1820235745,4049631843,3988215619
+
+
+// Krait - Krait me daddy (pve)
+//notes: This will perform decently in PvE if you enjoy the feel of this gun enough. Make sure the perks don't get in each other's ways though! tags:pve
+dimwishlist:item=2852052802&perks=1820235745,3673922083
+dimwishlist:item=2852052802&perks=1820235745,4049631843
+dimwishlist:item=2852052802&perks=1820235745,1546637391
+dimwishlist:item=2852052802&perks=1820235745,2896038713
+dimwishlist:item=2852052802&perks=1820235745,124408337
+dimwishlist:item=2852052802&perks=3643424744,3673922083
+dimwishlist:item=2852052802&perks=3643424744,4049631843
+dimwishlist:item=2852052802&perks=3643424744,1546637391
+dimwishlist:item=2852052802&perks=3643424744,2896038713
+dimwishlist:item=2852052802&perks=3643424744,124408337
+
+
+// Syncopation-53 - PvE-53 (pve)
+//notes: This roll should be decent in PvE in most situations IF a pulse is the right call in the first place tags:pve
+dimwishlist:item=2856514843&perks=1347741687,3418165135
+dimwishlist:item=2856514843&perks=1347741687,1546637391
+dimwishlist:item=2856514843&perks=1347741687,4104185692
+dimwishlist:item=2856514843&perks=1347741687,3007133316
+dimwishlist:item=2856514843&perks=1347741687,1171887445
+
+
+// Syncopation-53 - PvP-53 (pvp)
+//notes: This roll should be good in PvP, of course only if this pulse has a good feel for you tags:pvp
+dimwishlist:item=2856514843&perks=2387244414,460017080
+dimwishlist:item=2856514843&perks=2387244414,4045335048
+dimwishlist:item=2856514843&perks=1748774930,460017080
+dimwishlist:item=2856514843&perks=1748774930,4045335048
+dimwishlist:item=2856514843&perks=2717805783,460017080
+dimwishlist:item=2856514843&perks=2717805783,4045335048
+dimwishlist:item=2856514843&perks=588594999,460017080
+dimwishlist:item=2856514843&perks=588594999,4045335048
+
+
+// Crisis Inverted - Goddy Roddy (pvp,god-pvp)
+//notes: Invert deez nuts with this god roll tags:pvp,god-pvp
+dimwishlist:item=2888266564&perks=3250034553,1885400500,588594999,2846385770
+dimwishlist:item=2888266564&perks=3250034553,1561002382,588594999,2846385770
+dimwishlist:item=2888266564&perks=1482024992,1885400500,588594999,2846385770
+dimwishlist:item=2888266564&perks=1482024992,1561002382,588594999,2846385770
+
+
+// Crisis Inverted (pvp)
+//notes: tags:pvp
+dimwishlist:item=2888266564&perks=247725512,1015611457
+dimwishlist:item=2888266564&perks=2946784966,1015611457
+
+
+// Crisis Inverted (pvp)
+//notes: tags:pvp
+dimwishlist:item=2888266564&perks=588594999,2846385770
+dimwishlist:item=2888266564&perks=588594999,957782887
+
+
+// Crisis Inverted (pve)
+//notes: tags:pve
+dimwishlist:item=2888266564&perks=3523296417,1546637391
+dimwishlist:item=2888266564&perks=3523296417,11612903
+
+
+// Red Herring - Yummy in the boss' tummy (god-pve,pve)
+//notes: This thing can hit some dps hard tags:god-pve,pve
+dimwishlist:item=3175851496&perks=3525010810,3796465595,2308090567,3927722942
+dimwishlist:item=3175851496&perks=3525010810,3796465595,2308090567,1167468626
+dimwishlist:item=3175851496&perks=3525010810,3796465595,2869569095,3927722942
+dimwishlist:item=3175851496&perks=3525010810,3796465595,2869569095,1167468626
+dimwishlist:item=3175851496&perks=1478423395,3796465595,2308090567,3927722942
+dimwishlist:item=3175851496&perks=1478423395,3796465595,2308090567,1167468626
+dimwishlist:item=3175851496&perks=1478423395,3796465595,2869569095,3927722942
+dimwishlist:item=3175851496&perks=1478423395,3796465595,2869569095,1167468626
+
+
+// Red Herring - Amazing gun (pve)
+//notes: This is an amazing tags:pve
+dimwishlist:item=3175851496&perks=3525010810,3796465595,2495011826,3927722942
+dimwishlist:item=3175851496&perks=3525010810,3796465595,2495011826,1167468626
+dimwishlist:item=3175851496&perks=3525010810,3796465595,2495011826,3007133316
+dimwishlist:item=3175851496&perks=3525010810,3796465595,2495011826,4104185692
+dimwishlist:item=3175851496&perks=3525010810,3796465595,2621346526,3927722942
+dimwishlist:item=3175851496&perks=3525010810,3796465595,2621346526,1167468626
+dimwishlist:item=3175851496&perks=3525010810,3796465595,2621346526,3007133316
+dimwishlist:item=3175851496&perks=3525010810,3796465595,2621346526,4104185692
+dimwishlist:item=3175851496&perks=3525010810,3796465595,2869569095,3927722942
+dimwishlist:item=3175851496&perks=3525010810,3796465595,2869569095,1167468626
+dimwishlist:item=3175851496&perks=3525010810,3796465595,2869569095,3007133316
+dimwishlist:item=3175851496&perks=3525010810,3796465595,2869569095,4104185692
+dimwishlist:item=3175851496&perks=3525010810,3796465595,2308090567,3927722942
+dimwishlist:item=3175851496&perks=3525010810,3796465595,2308090567,1167468626
+dimwishlist:item=3175851496&perks=3525010810,3796465595,2308090567,3007133316
+dimwishlist:item=3175851496&perks=3525010810,3796465595,2308090567,4104185692
+dimwishlist:item=3175851496&perks=1478423395,3796465595,2495011826,3927722942
+dimwishlist:item=3175851496&perks=1478423395,3796465595,2495011826,1167468626
+dimwishlist:item=3175851496&perks=1478423395,3796465595,2495011826,3007133316
+dimwishlist:item=3175851496&perks=1478423395,3796465595,2495011826,4104185692
+dimwishlist:item=3175851496&perks=1478423395,3796465595,2621346526,3927722942
+dimwishlist:item=3175851496&perks=1478423395,3796465595,2621346526,1167468626
+dimwishlist:item=3175851496&perks=1478423395,3796465595,2621346526,3007133316
+dimwishlist:item=3175851496&perks=1478423395,3796465595,2621346526,4104185692
+dimwishlist:item=3175851496&perks=1478423395,3796465595,2869569095,3927722942
+dimwishlist:item=3175851496&perks=1478423395,3796465595,2869569095,1167468626
+dimwishlist:item=3175851496&perks=1478423395,3796465595,2869569095,3007133316
+dimwishlist:item=3175851496&perks=1478423395,3796465595,2869569095,4104185692
+dimwishlist:item=3175851496&perks=1478423395,3796465595,2308090567,3927722942
+dimwishlist:item=3175851496&perks=1478423395,3796465595,2308090567,1167468626
+dimwishlist:item=3175851496&perks=1478423395,3796465595,2308090567,3007133316
+dimwishlist:item=3175851496&perks=1478423395,3796465595,2308090567,4104185692
+
+
+// Funnelweb (pve,god-pve)
+//notes: tags:pve,god-pve
+dimwishlist:item=3341893443&perks=839105230,3142289711,1820235745,4104185692,3988215619
+dimwishlist:item=3341893443&perks=839105230,106909392,1820235745,4104185692,3988215619
+dimwishlist:item=3341893443&perks=3661387068,3142289711,1820235745,4104185692,3988215619
+dimwishlist:item=3341893443&perks=3661387068,106909392,1820235745,4104185692,3988215619
+dimwishlist:item=3341893443&perks=4090651448,3142289711,1820235745,4104185692,3988215619
+dimwishlist:item=3341893443&perks=4090651448,106909392,1820235745,4104185692,3988215619
+
+
+// Funnelweb - oh? (pvp)
+//notes: OH? tags:pvp
+dimwishlist:item=3341893443&perks=3142289711,1428297954,2846385770
+dimwishlist:item=3341893443&perks=3142289711,2450788523,2846385770
+
+
+// Silicon Neuroma - SilicON DEEZ NUTS (pve,god-pve)
+//notes: This could SHRED in dps with some friends tags:pve,god-pve
+dimwishlist:item=3355385170&perks=2420895100,3400784728,1771339417
+dimwishlist:item=3355385170&perks=1087426260,3400784728,1771339417
+
+
+// Silicon Neuroma - Silicon Slayer (pvp,god-pvp)
+//notes: Awoooooga, this is a nice perk set on a nice gun type with lower zoom tags:pvp,god-pvp
+dimwishlist:item=3355385170&perks=1840239774,957782887,47981717
+
+
+// Silicon Neuroma - Silicon DPS (pve)
+//notes: This combo is one to watch if focused fury ends up being good tags:pve
+dimwishlist:item=3355385170&perks=3400784728,2896038713
+
+
+// Palmyra-B (pve)
+//notes: ad clear central over here boys tags:pve
+dimwishlist:item=3489657138&perks=2010801679,2396489472
+dimwishlist:item=3489657138&perks=2010801679,598607952
+dimwishlist:item=3489657138&perks=3797647183,2396489472
+dimwishlist:item=3489657138&perks=3797647183,598607952
+
+
+// Palmyra-B (pve)
+//notes: dps king? tags:pve
+dimwishlist:item=3489657138&perks=3796465595,2621346526,3927722942
+dimwishlist:item=3489657138&perks=3796465595,2621346526,1167468626
+dimwishlist:item=3489657138&perks=3796465595,2495011826,3927722942
+dimwishlist:item=3489657138&perks=3796465595,2495011826,1167468626
+dimwishlist:item=3489657138&perks=3796465595,3878366039,3927722942
+dimwishlist:item=3489657138&perks=3796465595,3878366039,1167468626
+dimwishlist:item=3489657138&perks=3796465595,951095735,3927722942
+dimwishlist:item=3489657138&perks=3796465595,951095735,1167468626
+dimwishlist:item=3489657138&perks=3796465595,3300816228,3927722942
+dimwishlist:item=3489657138&perks=3796465595,3300816228,1167468626
+dimwishlist:item=3489657138&perks=3796465595,3528046508,3927722942
+dimwishlist:item=3489657138&perks=3796465595,3528046508,1167468626
+
+
+// Typhon GL5 (pve)
+//notes: tags:pve
+dimwishlist:item=3568377122&perks=3301904089,951095735,2978966579,2839173408
+
+
+// Father's Sins - Aztecross Special (pvp)
+//notes: Yeeeaaaaaah boy tags:pvp
+dimwishlist:item=3865728990&perks=2866798147,957782887
+dimwishlist:item=3865728990&perks=2866798147,4116820839
+dimwishlist:item=3865728990&perks=2866798147,47981717
+dimwishlist:item=3865728990&perks=2866798147,1370847713
+dimwishlist:item=3865728990&perks=1645158859,957782887
+dimwishlist:item=3865728990&perks=1645158859,4116820839
+dimwishlist:item=3865728990&perks=1645158859,47981717
+dimwishlist:item=3865728990&perks=1645158859,1370847713
+dimwishlist:item=3865728990&perks=3755250867,957782887
+dimwishlist:item=3865728990&perks=3755250867,4116820839
+dimwishlist:item=3865728990&perks=3755250867,47981717
+dimwishlist:item=3865728990&perks=3755250867,1370847713
+
+
+// Thoughtless - Yaaaaaaa (pvp)
+//notes: This gun can be pretty thoughtless to get some kills with tags:pvp
+dimwishlist:item=4067556514&perks=280464955,4116820839
+dimwishlist:item=4067556514&perks=280464955,957782887
+dimwishlist:item=4067556514&perks=3920370755,4116820839
+dimwishlist:item=4067556514&perks=3920370755,957782887
+dimwishlist:item=4067556514&perks=1428297954,4116820839
+dimwishlist:item=4067556514&perks=1428297954,957782887
+dimwishlist:item=4067556514&perks=2014892510,4116820839
+dimwishlist:item=4067556514&perks=2014892510,957782887
+
+
+// Thoughtless - yaaaaaaaaaa dps (pve)
+//notes: Give this gun a run in the sun with some DPS tags:pve
+dimwishlist:item=4067556514&perks=1087426260,3643424744,2896038713
+dimwishlist:item=4067556514&perks=1087426260,3643424744,1771339417
+dimwishlist:item=4067556514&perks=1087426260,3643424744,2402480669
+dimwishlist:item=4067556514&perks=1087426260,3643424744,395388285
+dimwishlist:item=4067556514&perks=1087426260,2682205016,2896038713
+dimwishlist:item=4067556514&perks=1087426260,2682205016,1771339417
+dimwishlist:item=4067556514&perks=1087426260,2682205016,2402480669
+dimwishlist:item=4067556514&perks=1087426260,2682205016,395388285
+dimwishlist:item=4067556514&perks=1087426260,247725512,2896038713
+dimwishlist:item=4067556514&perks=1087426260,247725512,1771339417
+dimwishlist:item=4067556514&perks=1087426260,247725512,2402480669
+dimwishlist:item=4067556514&perks=1087426260,247725512,395388285
+dimwishlist:item=4067556514&perks=1087426260,2938480696,2896038713
+dimwishlist:item=4067556514&perks=1087426260,2938480696,1771339417
+dimwishlist:item=4067556514&perks=1087426260,2938480696,2402480669
+dimwishlist:item=4067556514&perks=1087426260,2938480696,395388285
+dimwishlist:item=4067556514&perks=2420895100,3643424744,2896038713
+dimwishlist:item=4067556514&perks=2420895100,3643424744,1771339417
+dimwishlist:item=4067556514&perks=2420895100,3643424744,2402480669
+dimwishlist:item=4067556514&perks=2420895100,3643424744,395388285
+dimwishlist:item=4067556514&perks=2420895100,2682205016,2896038713
+dimwishlist:item=4067556514&perks=2420895100,2682205016,1771339417
+dimwishlist:item=4067556514&perks=2420895100,2682205016,2402480669
+dimwishlist:item=4067556514&perks=2420895100,2682205016,395388285
+dimwishlist:item=4067556514&perks=2420895100,247725512,2896038713
+dimwishlist:item=4067556514&perks=2420895100,247725512,1771339417
+dimwishlist:item=4067556514&perks=2420895100,247725512,2402480669
+dimwishlist:item=4067556514&perks=2420895100,247725512,395388285
+dimwishlist:item=4067556514&perks=2420895100,2938480696,2896038713
+dimwishlist:item=4067556514&perks=2420895100,2938480696,1771339417
+dimwishlist:item=4067556514&perks=2420895100,2938480696,2402480669
+dimwishlist:item=4067556514&perks=2420895100,2938480696,395388285
+
+
+// Explosive Personality - Wave FRAAAAAME (pve)
+//notes: Wave frames are so good, use this and don't you ever let go tags:pve
+dimwishlist:item=4096943616&perks=2779035018,859780267
+dimwishlist:item=4096943616&perks=2779035018,4049631843
+dimwishlist:item=4096943616&perks=1171147302,859780267
+dimwishlist:item=4096943616&perks=1171147302,4049631843
+dimwishlist:item=4096943616&perks=1583705720,859780267
+dimwishlist:item=4096943616&perks=1583705720,4049631843
+dimwishlist:item=4096943616&perks=1409206216,859780267
+dimwishlist:item=4096943616&perks=1409206216,4049631843
+
+
+// Explosive Personality - GM choice? (pve)
+//notes: This combo could be good in GMs? Give it a try tags:pve
+dimwishlist:item=4096943616&perks=1658784563,1683379515
+dimwishlist:item=4096943616&perks=1658784563,2216471363
+dimwishlist:item=4096943616&perks=1658784563,2000295559
+
+
+// Explosive Personality - Aztecross Recommendation (pvp)
+//notes: Daddy cross says this is very viable in PvP tags:pvp
+dimwishlist:item=4096943616&perks=3300816228,1683379515
+dimwishlist:item=4096943616&perks=3300816228,2216471363
+dimwishlist:item=4096943616&perks=3528046508,1683379515
+dimwishlist:item=4096943616&perks=3528046508,2216471363
+
+
+// Snorri FR5 - Don't SNORRI on this (pvp)
+//notes: Very good weapon, great main ingredient replacement tags:pvp
+dimwishlist:item=4114929480&perks=280464955,2213355989
+dimwishlist:item=4114929480&perks=1570042021,2213355989
+
+
+// Snorri FR5 - Reload FR5 (pve)
+//notes: Reload this after every shot. The perks synergize well to speed up that reload. tags:pve
+dimwishlist:item=4114929480&perks=671806388,1427256713,2839173408
+
+
+// Ragnhild-D - Aztecross recommended roll (god-pvp,pvp)
+//notes: daddy recommends this roll tags:god-pvp,pvp
+dimwishlist:item=4225322581&perks=1332244541,3142289711,1428297954,3523296417
+dimwishlist:item=4225322581&perks=1332244541,3142289711,1428297954,1906147653
+dimwishlist:item=4225322581&perks=1332244541,3142289711,1428297954,711234314
+dimwishlist:item=4225322581&perks=1332244541,3142289711,1428297954,3511092054
+dimwishlist:item=4225322581&perks=1332244541,3142289711,2014892510,3523296417
+dimwishlist:item=4225322581&perks=1332244541,3142289711,2014892510,1906147653
+dimwishlist:item=4225322581&perks=1332244541,3142289711,2014892510,711234314
+dimwishlist:item=4225322581&perks=1332244541,3142289711,2014892510,3511092054
+
+
+// Ragnhild-D - Weird named gun (pve)
+//notes: This combo, weirdly enough, is good. They just buffed dual loader, give it a try if you don't have another 1-2 punch gun. tags:pve
+dimwishlist:item=4225322581&perks=3143051906,2679249093
+dimwishlist:item=4225322581&perks=3143051906,788178929
+dimwishlist:item=4225322581&perks=25606670,2679249093
+dimwishlist:item=4225322581&perks=25606670,788178929
+
+
+// Ragnhild-D - Weird named gun (pve)
+//notes: This should be fun in PvE! tags:pve
+dimwishlist:item=4225322581&perks=25606670,3007133316
+dimwishlist:item=4225322581&perks=25606670,11612903
+dimwishlist:item=4225322581&perks=25606670,2422968039
+dimwishlist:item=4225322581&perks=25606670,4104185692
+dimwishlist:item=4225322581&perks=3143051906,3007133316
+dimwishlist:item=4225322581&perks=3143051906,11612903
+dimwishlist:item=4225322581&perks=3143051906,2422968039
+dimwishlist:item=4225322581&perks=3143051906,4104185692
